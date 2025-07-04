@@ -1,0 +1,6519 @@
+[
+  {
+    "Startup Name": "Weave",
+    "Startup URL": "http://getweave.com",
+    "Startup Description": "",
+    "Startup Keyword": "SaaS",
+    "Founders": [
+      {
+        "Name": "Jared Rodman",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/jared-rodman-2188a23b/",
+        "Email": "jared@weave.com"
+      },
+      {
+        "Name": "Clint Berry",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/clintonberry",
+        "Email": "clint@weave.com"
+      },
+      {
+        "Name": "Brandon Rodman",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/brandonrodman",
+        "Email": "brandon@weave.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Segment",
+    "Startup URL": "http://segment.com",
+    "Startup Description": "",
+    "Startup Keyword": "SaaS",
+    "Founders": [
+      {
+        "Name": "Ilya Volodarsky",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/ilyavolodarsky/",
+        "Email": "ilya@segment.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Benchling",
+    "Startup URL": "http://benchling.com",
+    "Startup Description": "",
+    "Startup Keyword": "SaaS",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Lever",
+    "Startup URL": "https://www.lever.co/",
+    "Startup Description": "",
+    "Startup Keyword": "SaaS",
+    "Founders": [
+      {
+        "Name": "Sarah Nahm",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/sarahnahm",
+        "Email": "sarah@lever.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Heap",
+    "Startup URL": "https://heap.io/",
+    "Startup Description": "",
+    "Startup Keyword": "SaaS",
+    "Founders": [
+      {
+        "Name": "Matin Movassate",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/matin-movassate-29494723",
+        "Email": "matin@heap.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Fivetran",
+    "Startup URL": "http://fivetran.com",
+    "Startup Description": "",
+    "Startup Keyword": "SaaS",
+    "Founders": [
+      {
+        "Name": "Taylor Brown",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/taylorwcbrown",
+        "Email": "taylor@fivetran.com"
+      },
+      {
+        "Name": "George Fraser",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/george-fraser-a0219230",
+        "Email": "george@fivetran.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Flexport",
+    "Startup URL": "https://www.flexport.com/careers/jobs/",
+    "Startup Description": "",
+    "Startup Keyword": "SaaS",
+    "Founders": []
+  },
+  {
+    "Startup Name": "HelloSign",
+    "Startup URL": "https://www.hellosign.com",
+    "Startup Description": "",
+    "Startup Keyword": "SaaS",
+    "Founders": [
+      {
+        "Name": "Neal O'Mara",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/nealomara/",
+        "Email": "neal@hellosign.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Webflow",
+    "Startup URL": "https://webflow.com",
+    "Startup Description": "",
+    "Startup Keyword": "SaaS",
+    "Founders": [
+      {
+        "Name": "Bryant Chou",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/bryantchou",
+        "Email": "bryant@webflow.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Zapier",
+    "Startup URL": "http://zapier.com",
+    "Startup Description": "",
+    "Startup Keyword": "SaaS",
+    "Founders": [
+      {
+        "Name": "Bryan Helmig",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/bryanhelmig",
+        "Email": "bryan@zapier.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Mio",
+    "Startup URL": "http://m.io",
+    "Startup Description": "",
+    "Startup Keyword": "SaaS",
+    "Founders": []
+  },
+  {
+    "Startup Name": "TetraScience",
+    "Startup URL": "https://www.tetrascience.com",
+    "Startup Description": "",
+    "Startup Keyword": "SaaS",
+    "Founders": []
+  },
+  {
+    "Startup Name": "PickTrace",
+    "Startup URL": "http://picktrace.com/company",
+    "Startup Description": "",
+    "Startup Keyword": "SaaS",
+    "Founders": [
+      {
+        "Name": "Austin Steed",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/austinsteed",
+        "Email": "austin@picktrace.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Confident LIMS",
+    "Startup URL": "https://confidentlims.com",
+    "Startup Description": "",
+    "Startup Keyword": "SaaS",
+    "Founders": [
+      {
+        "Name": "Steve Albarran",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/steve-albarran/",
+        "Email": "steve@confidentlims.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Scope AR",
+    "Startup URL": "http://scopear.com",
+    "Startup Description": "",
+    "Startup Keyword": "SaaS",
+    "Founders": [
+      {
+        "Name": "Scott Montgomerie",
+        "Role": "Founder",
+        "LinkedIn": "http://www.linkedin.com/in/scottmontgomerie/en",
+        "Email": "scott@scopear.com"
+      },
+      {
+        "Name": "David Nedohin",
+        "Role": "Founder",
+        "LinkedIn": "https://www.ca.linkedin.com/in/davidnedohin",
+        "Email": "david@scopear.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Ironclad",
+    "Startup URL": "http://ironcladapp.com",
+    "Startup Description": "",
+    "Startup Keyword": "SaaS",
+    "Founders": [
+      {
+        "Name": "Jason Boehmig",
+        "Role": "Founder",
+        "LinkedIn": "http://www.linkedin.com/in/jboehmig",
+        "Email": "jason@ironclad.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "NimbleRx",
+    "Startup URL": "http://nimblerx.com",
+    "Startup Description": "",
+    "Startup Keyword": "SaaS",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Quartzy",
+    "Startup URL": "https://www.quartzy.com",
+    "Startup Description": "",
+    "Startup Keyword": "SaaS",
+    "Founders": [
+      {
+        "Name": "Adam Regelmann",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/adam-r-7189a67/",
+        "Email": "adam@quartzy.com"
+      },
+      {
+        "Name": "Jayant Kulkarni",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/jayantekulkarni/",
+        "Email": "jayant@quartzy.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Streak",
+    "Startup URL": "http://streak.com",
+    "Startup Description": "",
+    "Startup Keyword": "SaaS",
+    "Founders": [
+      {
+        "Name": "Aleem Mawani",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/aleemmawani/",
+        "Email": "aleem@streak.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Bloom",
+    "Startup URL": "https://bloom.diy/",
+    "Startup Description": "",
+    "Startup Keyword": "MVP",
+    "Founders": [
+      {
+        "Name": "Sirian",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/sirian-maathuis/",
+        "Email": "sirian@bloom.com"
+      },
+      {
+        "Name": "David",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/david-oort-alonso/",
+        "Email": "david@bloom.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Souffle Club",
+    "Startup URL": "https://souffle.club",
+    "Startup Description": "",
+    "Startup Keyword": "MVP",
+    "Founders": [
+      {
+        "Name": "Pradeep Muthukrishnan",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/pradeep-muthukrishnan-6864055/",
+        "Email": "pradeep@souffleclub.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "BlindPay",
+    "Startup URL": "https://blindpay.com/",
+    "Startup Description": "",
+    "Startup Keyword": "MVP",
+    "Founders": [
+      {
+        "Name": "Gustavo Marinho",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/gustavomarinho/",
+        "Email": "gustavo@blindpay.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "finbar",
+    "Startup URL": "https://finbar.com",
+    "Startup Description": "",
+    "Startup Keyword": "MVP",
+    "Founders": [
+      {
+        "Name": "Edward Huang",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/edward-huang-cfa-8807b4149/",
+        "Email": "edward@finbar.com"
+      },
+      {
+        "Name": "Robin Gan",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/robin-gan-180060126",
+        "Email": "robin@finbar.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "HumanLayer",
+    "Startup URL": "https://humanlayer.dev",
+    "Startup Description": "",
+    "Startup Keyword": "MVP",
+    "Founders": [
+      {
+        "Name": "Dex",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/dexterihorthy",
+        "Email": "dex@humanlayer.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Buster",
+    "Startup URL": "http://buster.so",
+    "Startup Description": "",
+    "Startup Keyword": "MVP",
+    "Founders": [
+      {
+        "Name": "Blake",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/cblakerouse/",
+        "Email": "blake@buster.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Gumloop",
+    "Startup URL": "https://www.gumloop.com/",
+    "Startup Description": "",
+    "Startup Keyword": "MVP",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Epsilla",
+    "Startup URL": "https://www.epsilla.com/",
+    "Startup Description": "",
+    "Startup Keyword": "MVP",
+    "Founders": [
+      {
+        "Name": "Richard Song",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/renchu-song-a4099247",
+        "Email": "richard@epsilla.com"
+      },
+      {
+        "Name": "Ricki Qin",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/jing-ricki-qin-48a4baa4/",
+        "Email": "ricki@epsilla.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Resend",
+    "Startup URL": "https://resend.com",
+    "Startup Description": "",
+    "Startup Keyword": "MVP",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Cerrion",
+    "Startup URL": "https://www.cerrion.com/",
+    "Startup Description": "",
+    "Startup Keyword": "MVP",
+    "Founders": [
+      {
+        "Name": "Karim Saleh",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/karim-saleh99/",
+        "Email": "karim@cerrion.com"
+      },
+      {
+        "Name": "Nikolay Kobyshev",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/nkobyshev/",
+        "Email": "nikolay@cerrion.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Rally UXR",
+    "Startup URL": "https://www.rallyuxr.com/",
+    "Startup Description": "",
+    "Startup Keyword": "MVP",
+    "Founders": [
+      {
+        "Name": "Oren Friedman",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/oren-friedman/",
+        "Email": "oren@rallyuxr.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Amal Invest",
+    "Startup URL": "https://amalinvest.com",
+    "Startup Description": "",
+    "Startup Keyword": "MVP",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Talentropy.ai",
+    "Startup URL": "https://talentropy.ai/",
+    "Startup Description": "",
+    "Startup Keyword": "MVP",
+    "Founders": [
+      {
+        "Name": "Sebastian Arce",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/sebastian-arce-rubio-499921126/",
+        "Email": "sebastian@talentropy.ai.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Trébol",
+    "Startup URL": "https://gotrebol.com/",
+    "Startup Description": "",
+    "Startup Keyword": "MVP",
+    "Founders": [
+      {
+        "Name": "Luis Sebastian Buitrago León",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/lsbuitrago/",
+        "Email": "luis@trébol.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Revery AI",
+    "Startup URL": "https://revery.ai",
+    "Startup Description": "",
+    "Startup Keyword": "MVP",
+    "Founders": [
+      {
+        "Name": "Min Jin Chong",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/min-jin-chong-ab566212a/",
+        "Email": "min@reveryai.com"
+      },
+      {
+        "Name": "Jeffrey Zhang",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/jeffrey-zhang-5a8030aa/",
+        "Email": "jeffrey@reveryai.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "CoLoop",
+    "Startup URL": "https://coloop.ai/",
+    "Startup Description": "",
+    "Startup Keyword": "MVP",
+    "Founders": [
+      {
+        "Name": "Jack Bowen",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/jack-bowen-ab6b7018a/",
+        "Email": "jack@coloop.com"
+      },
+      {
+        "Name": "Adrien Wald",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/adrien-wald-862495136",
+        "Email": "adrien@coloop.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Whalesync",
+    "Startup URL": "https://www.whalesync.com",
+    "Startup Description": "",
+    "Startup Keyword": "MVP",
+    "Founders": [
+      {
+        "Name": "Matthew Busel",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/matthew-busel/",
+        "Email": "matthew@whalesync.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Requestly",
+    "Startup URL": "https://requestly.com",
+    "Startup Description": "",
+    "Startup Keyword": "MVP",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Ruta Health",
+    "Startup URL": "https://www.rutahealth.com/",
+    "Startup Description": "",
+    "Startup Keyword": "MVP",
+    "Founders": [
+      {
+        "Name": "Geordie Graham",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/geordieg/",
+        "Email": "geordie@rutahealth.com"
+      },
+      {
+        "Name": "Derek Ruohao Zhang",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/derek-r-zhang",
+        "Email": "derek@rutahealth.com"
+      },
+      {
+        "Name": "Alex Zvaniga",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/alexzvaniga/",
+        "Email": "alex@rutahealth.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Alguna",
+    "Startup URL": "https://alguna.io",
+    "Startup Description": "",
+    "Startup Keyword": "early-stage startup",
+    "Founders": [
+      {
+        "Name": "Jamie MacLeod",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/jamie-macleod",
+        "Email": "jamie@alguna.com"
+      },
+      {
+        "Name": "@Jamie MacLeod",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/jamie-macleod/",
+        "Email": "@jamie@alguna.com"
+      },
+      {
+        "Name": "@Aleks Đekić",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/aleksdjekic/",
+        "Email": "@aleks@alguna.com"
+      },
+      {
+        "Name": "@Aleks",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/aleksdjekic/",
+        "Email": "@aleks@alguna.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "No Cap",
+    "Startup URL": "https://www.nocap.so",
+    "Startup Description": "",
+    "Startup Keyword": "early-stage startup",
+    "Founders": [
+      {
+        "Name": "Mika Melchanka",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/mikamelchanka/",
+        "Email": "mika@nocap.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Pump.co",
+    "Startup URL": "https://www.pump.co/",
+    "Startup Description": "",
+    "Startup Keyword": "early-stage startup",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Bountii",
+    "Startup URL": "http://bountii.com",
+    "Startup Description": "",
+    "Startup Keyword": "early-stage startup",
+    "Founders": [
+      {
+        "Name": "Samir Meghani",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/samirmeghani",
+        "Email": "samir@bountii.com"
+      },
+      {
+        "Name": "John Puskarich",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/johnpuskarich",
+        "Email": "john@bountii.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Hyper Online",
+    "Startup URL": "https://www.hyper.online/",
+    "Startup Description": "",
+    "Startup Keyword": "early-stage startup",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Optery",
+    "Startup URL": "https://www.optery.com",
+    "Startup Description": "",
+    "Startup Keyword": "early-stage startup",
+    "Founders": [
+      {
+        "Name": "Chen Atlas",
+        "Role": "Founder",
+        "LinkedIn": "http://www.linkedin.com/in/atlaschen",
+        "Email": "chen@optery.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Cognition IP",
+    "Startup URL": "https://www.cognitionip.com",
+    "Startup Description": "",
+    "Startup Keyword": "early-stage startup",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Scout",
+    "Startup URL": "https://scoutforschools.com/",
+    "Startup Description": "",
+    "Startup Keyword": "early-stage startup",
+    "Founders": [
+      {
+        "Name": "Max Bertfield",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/maxbertfield/",
+        "Email": "max@scout.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "RetroFix",
+    "Startup URL": "https://www.retrofix.ai/",
+    "Startup Description": "",
+    "Startup Keyword": "early-stage startup",
+    "Founders": [
+      {
+        "Name": "Isaac Toscano",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/isaac-t-1a51ab13a/",
+        "Email": "isaac@retrofix.com"
+      },
+      {
+        "Name": "Isaac",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/isaac-t-1a51ab13a/",
+        "Email": "isaac@retrofix.com"
+      },
+      {
+        "Name": "Daniel",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/daniel-portela-febo/",
+        "Email": "daniel@retrofix.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Cone",
+    "Startup URL": "https://www.getcone.io",
+    "Startup Description": "",
+    "Startup Keyword": "early-stage startup",
+    "Founders": [
+      {
+        "Name": "Jahangir Mohammed",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/jahangir27/",
+        "Email": "jahangir@cone.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Maverick Metals",
+    "Startup URL": "https://www.MaverickMetals.com",
+    "Startup Description": "",
+    "Startup Keyword": "early-stage startup",
+    "Founders": [
+      {
+        "Name": "Eric Herrera",
+        "Role": "Founder",
+        "LinkedIn": "http://www.linkedin.com/in/eric-herrera-9784a0174",
+        "Email": "eric@maverickmetals.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Anja Health",
+    "Startup URL": "https://anjahealth.com",
+    "Startup Description": "",
+    "Startup Keyword": "early-stage startup",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Myria",
+    "Startup URL": "https://myria.us",
+    "Startup Description": "",
+    "Startup Keyword": "early-stage startup",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Aleph",
+    "Startup URL": "https://getaleph.com/",
+    "Startup Description": "",
+    "Startup Keyword": "early-stage startup",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Akudo",
+    "Startup URL": "https://www.akudo.in/",
+    "Startup Description": "",
+    "Startup Keyword": "early-stage startup",
+    "Founders": [
+      {
+        "Name": "Sajal Khanna",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/sajal-khanna-52aa9b126",
+        "Email": "sajal@akudo.com"
+      },
+      {
+        "Name": "Lavika Aggarwal",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/lavika-aggarwal-463a4b132/",
+        "Email": "lavika@akudo.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Awtomic",
+    "Startup URL": "https://www.awtomic.com",
+    "Startup Description": "",
+    "Startup Keyword": "early-stage startup",
+    "Founders": [
+      {
+        "Name": "Emily Yuhas",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/emily-yuhas/",
+        "Email": "emily@awtomic.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Bond",
+    "Startup URL": "https://www.bondapp.io/",
+    "Startup Description": "",
+    "Startup Keyword": "early-stage startup",
+    "Founders": [
+      {
+        "Name": "Chloe",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/chloesamaha/",
+        "Email": "chloe@bond.com"
+      },
+      {
+        "Name": "Rene",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/renesultan/",
+        "Email": "rene@bond.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Gauge",
+    "Startup URL": "https://withgauge.com",
+    "Startup Description": "",
+    "Startup Keyword": "early-stage startup",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Yarn",
+    "Startup URL": "https://www.yarn.so",
+    "Startup Description": "",
+    "Startup Keyword": "early-stage startup",
+    "Founders": [
+      {
+        "Name": "Nicole Atack",
+        "Role": "Founder",
+        "LinkedIn": "www.linkedin.com/in/nicole-atack-98194b2b8",
+        "Email": "nicole@yarn.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Swish",
+    "Startup URL": "http://swish.com",
+    "Startup Description": "",
+    "Startup Keyword": "product launch",
+    "Founders": []
+  },
+  {
+    "Startup Name": "SmartHelio",
+    "Startup URL": "https://www.smarthelio.com/",
+    "Startup Description": "",
+    "Startup Keyword": "product launch",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Memfault",
+    "Startup URL": "https://memfault.com",
+    "Startup Description": "",
+    "Startup Keyword": "product launch",
+    "Founders": [
+      {
+        "Name": "Christopher Coleman",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/christopher-coleman-812aa06b/",
+        "Email": "christopher@memfault.com"
+      },
+      {
+        "Name": "Tyler Hoffman",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/tyhoff/",
+        "Email": "tyler@memfault.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Bramble",
+    "Startup URL": "https://usebramble.com",
+    "Startup Description": "",
+    "Startup Keyword": "product launch",
+    "Founders": [
+      {
+        "Name": "Nimesh Chakravarthi",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/nimesh-chakravarthi-68238749",
+        "Email": "nimesh@bramble.com"
+      },
+      {
+        "Name": "Nimesh",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/nimesh-chakravarthi-68238749",
+        "Email": "nimesh@bramble.com"
+      },
+      {
+        "Name": "Deepan",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/deepanmehta",
+        "Email": "deepan@bramble.com"
+      },
+      {
+        "Name": "Danny",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/dannyighsu",
+        "Email": "danny@bramble.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "222",
+    "Startup URL": "https://222.place",
+    "Startup Description": "",
+    "Startup Keyword": "product launch",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Integration Labs",
+    "Startup URL": "https://www.integrationlabs.co",
+    "Startup Description": "",
+    "Startup Keyword": "product launch",
+    "Founders": [
+      {
+        "Name": "Ishwar Gogineni",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/ishwar-gogineni/",
+        "Email": "ishwar@integrationlabs.com"
+      },
+      {
+        "Name": "Sidharth Rao",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/siddharth-rao-33ba80146/",
+        "Email": "sidharth@integrationlabs.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Ticket Wallet",
+    "Startup URL": "https://www.ticketwallet.com",
+    "Startup Description": "",
+    "Startup Keyword": "product launch",
+    "Founders": [
+      {
+        "Name": "Truman Gelnovatch",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/truman-gelnovatch-52442218a/",
+        "Email": "truman@ticketwallet.com"
+      },
+      {
+        "Name": "Ryan Clare",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/ryan-clare-782299196",
+        "Email": "ryan@ticketwallet.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Decentro",
+    "Startup URL": "https://decentro.tech",
+    "Startup Description": "",
+    "Startup Keyword": "product launch",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Treasury Prime",
+    "Startup URL": "https://treasuryprime.com",
+    "Startup Description": "",
+    "Startup Keyword": "product launch",
+    "Founders": [
+      {
+        "Name": "Chris Dean",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/ctdean/",
+        "Email": "chris@treasuryprime.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Floatpays Inc",
+    "Startup URL": "https://www.floatpays.com",
+    "Startup Description": "",
+    "Startup Keyword": "product launch",
+    "Founders": [
+      {
+        "Name": "Simon Ward",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/wardsimon/",
+        "Email": "simon@floatpaysinc.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Spinach AI",
+    "Startup URL": "https://spinach.io",
+    "Startup Description": "",
+    "Startup Keyword": "product launch",
+    "Founders": [
+      {
+        "Name": "Yoav Grossman",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/yoavgrossman/",
+        "Email": "yoav@spinachai.com"
+      },
+      {
+        "Name": "Josh Willis",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/getmorejosh/",
+        "Email": "josh@spinachai.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Pearson Labs",
+    "Startup URL": "http://www.pearsonlabs.ai",
+    "Startup Description": "",
+    "Startup Keyword": "product launch",
+    "Founders": [
+      {
+        "Name": "Stephanie Young",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/stephanieyoung1/",
+        "Email": "stephanie@pearsonlabs.com"
+      },
+      {
+        "Name": "Qi Yang",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/qi-yang-mit/",
+        "Email": "qi@pearsonlabs.com"
+      },
+      {
+        "Name": "Steph",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/stephanieyoung1/",
+        "Email": "steph@pearsonlabs.com"
+      },
+      {
+        "Name": "Qi",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/qi-yang-mit/",
+        "Email": "qi@pearsonlabs.com"
+      },
+      {
+        "Name": "Steph",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/stephanieyoung1/",
+        "Email": "steph@pearsonlabs.com"
+      },
+      {
+        "Name": "Qi",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/qi-yang-mit/",
+        "Email": "qi@pearsonlabs.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Launcher Labs",
+    "Startup URL": "http://launchcaster.xyz",
+    "Startup Description": "",
+    "Startup Keyword": "product launch",
+    "Founders": []
+  },
+  {
+    "Startup Name": "WANTD",
+    "Startup URL": "http://getwantd.com",
+    "Startup Description": "",
+    "Startup Keyword": "product launch",
+    "Founders": [
+      {
+        "Name": "Ricky Nariani",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/rickynariani/",
+        "Email": "ricky@wantd.com"
+      },
+      {
+        "Name": "Quyen Hua",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/quyen-hua-4b088330",
+        "Email": "quyen@wantd.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Chow Central Inc",
+    "Startup URL": "https://chowcentral.com",
+    "Startup Description": "",
+    "Startup Keyword": "product launch",
+    "Founders": [
+      {
+        "Name": "Tosin Onafuye",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/tosin-onafuye-241441117",
+        "Email": "tosin@chowcentralinc.com"
+      },
+      {
+        "Name": "Christopher Obasi",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/christopherobasi",
+        "Email": "christopher@chowcentralinc.com"
+      },
+      {
+        "Name": "Adeyemi Onafuye",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/adeyemi-onafuye-6b620666",
+        "Email": "adeyemi@chowcentralinc.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Biobot Analytics",
+    "Startup URL": "http://biobot.io",
+    "Startup Description": "",
+    "Startup Keyword": "product launch",
+    "Founders": [
+      {
+        "Name": "Newsha Ghaeli",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/newshaghaeli/",
+        "Email": "newsha@biobotanalytics.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "PartnerHQ",
+    "Startup URL": "https://trypartnerhq.com",
+    "Startup Description": "",
+    "Startup Keyword": "product launch",
+    "Founders": [
+      {
+        "Name": "Stan Liu",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/stan-l-107a3b1b2",
+        "Email": "stan@partnerhq.com"
+      },
+      {
+        "Name": "Stan",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/stan-l-107a3b1b2/",
+        "Email": "stan@partnerhq.com"
+      },
+      {
+        "Name": "Kat,",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/katherine-wang-6760026a/",
+        "Email": "kat,@partnerhq.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Upsolve AI",
+    "Startup URL": "https://upsolve.ai/",
+    "Startup Description": "",
+    "Startup Keyword": "product launch",
+    "Founders": [
+      {
+        "Name": "Serguei Balanovich",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/sbalanovich",
+        "Email": "serguei@upsolveai.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Constructable",
+    "Startup URL": "https://www.constructable.ai/",
+    "Startup Description": "",
+    "Startup Keyword": "product launch",
+    "Founders": [
+      {
+        "Name": "Emma Nazim",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/emmamedjuck",
+        "Email": "emma@constructable.com"
+      },
+      {
+        "Name": "Molly Abbott",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/molly-abbott-41b03037",
+        "Email": "molly@constructable.com"
+      },
+      {
+        "Name": "John Yoder",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/john-yoder-92595985",
+        "Email": "john@constructable.com"
+      },
+      {
+        "Name": "John",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/john-yoder-92595985/",
+        "Email": "john@constructable.com"
+      },
+      {
+        "Name": "Molly",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/molly-abbott-41b03037/",
+        "Email": "molly@constructable.com"
+      },
+      {
+        "Name": "Emma",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/emmamedjuck/",
+        "Email": "emma@constructable.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Athina AI",
+    "Startup URL": "https://athina.ai",
+    "Startup Description": "",
+    "Startup Keyword": "prototype",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Magic Patterns",
+    "Startup URL": "https://www.magicpatterns.com/",
+    "Startup Description": "",
+    "Startup Keyword": "prototype",
+    "Founders": [
+      {
+        "Name": "Alex",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/alexanderdanilowicz/",
+        "Email": "alex@magicpatterns.com"
+      },
+      {
+        "Name": "Teddy",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/teddy-ni/",
+        "Email": "teddy@magicpatterns.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Appcubator",
+    "Startup URL": "http://appcubator.com",
+    "Startup Description": "",
+    "Startup Keyword": "prototype",
+    "Founders": [
+      {
+        "Name": "Ilter Canberk",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/ilter-canberk-85261411a",
+        "Email": "ilter@appcubator.com"
+      },
+      {
+        "Name": "Karan Sikka",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/karansikka",
+        "Email": "karan@appcubator.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Godela",
+    "Startup URL": "http://godela.ai",
+    "Startup Description": "",
+    "Startup Keyword": "prototype",
+    "Founders": [
+      {
+        "Name": "Cinnamon Sipper",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/cinnamonsipper",
+        "Email": "cinnamon@godela.com"
+      },
+      {
+        "Name": "Abhijit Pranav Pamarty",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/abhijit-pranav-pamarty-6b2453152/",
+        "Email": "abhijit@godela.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Perseus Defense",
+    "Startup URL": "https://perseusdefense.ai",
+    "Startup Description": "",
+    "Startup Keyword": "prototype",
+    "Founders": [
+      {
+        "Name": "Jason Cornelius",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/jason-k-cornelius/",
+        "Email": "jason@perseusdefense.com"
+      },
+      {
+        "Name": "Steve Messinger",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/steve-messinger-a32680155/",
+        "Email": "steve@perseusdefense.com"
+      },
+      {
+        "Name": "Jason",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/jason-k-cornelius/",
+        "Email": "jason@perseusdefense.com"
+      },
+      {
+        "Name": "Steve",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/steve-messinger-a32680155/",
+        "Email": "steve@perseusdefense.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "PowerMatrix",
+    "Startup URL": "https://pwrmatrix.com",
+    "Startup Description": "",
+    "Startup Keyword": "prototype",
+    "Founders": [
+      {
+        "Name": "Borong Hu",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/boronghu/",
+        "Email": "borong@powermatrix.com"
+      },
+      {
+        "Name": "Xufu Ren",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/xufu-ren-58477924b/",
+        "Email": "xufu@powermatrix.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Voker",
+    "Startup URL": "https://voker.ai",
+    "Startup Description": "",
+    "Startup Keyword": "prototype",
+    "Founders": [
+      {
+        "Name": "Tyler Postle",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/tyler-postle/",
+        "Email": "tyler@voker.com"
+      },
+      {
+        "Name": "Alex Rudolph",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/alex-r-87470a198/",
+        "Email": "alex@voker.com"
+      },
+      {
+        "Name": "Tyler",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/tyler-postle/",
+        "Email": "tyler@voker.com"
+      },
+      {
+        "Name": "Alex",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/alex-r-87470a198/",
+        "Email": "alex@voker.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Blast",
+    "Startup URL": "https://withblast.com",
+    "Startup Description": "",
+    "Startup Keyword": "prototype",
+    "Founders": [
+      {
+        "Name": "Arnav Joshi",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/arnav-joshi-516516154/",
+        "Email": "arnav@blast.com"
+      },
+      {
+        "Name": "Daniel Zamoshchin",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/daniel-zamoshchin/",
+        "Email": "daniel@blast.com"
+      },
+      {
+        "Name": "Daniel",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/daniel-zamoshchin/",
+        "Email": "daniel@blast.com"
+      },
+      {
+        "Name": "Arnav",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/arnav-joshi-516516154/",
+        "Email": "arnav@blast.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Ember Robotics",
+    "Startup URL": "https://www.emberrobotics.com",
+    "Startup Description": "",
+    "Startup Keyword": "prototype",
+    "Founders": [
+      {
+        "Name": "Shivani Mouleeswaran",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/shivanicm",
+        "Email": "shivani@emberrobotics.com"
+      },
+      {
+        "Name": "Ritika Shrivastava",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/ritikashrivastava/",
+        "Email": "ritika@emberrobotics.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Mocha",
+    "Startup URL": "https://getmocha.com",
+    "Startup Description": "",
+    "Startup Keyword": "prototype",
+    "Founders": [
+      {
+        "Name": "Ben",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/bereinhart",
+        "Email": "ben@mocha.com"
+      },
+      {
+        "Name": "Nick",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/nicholas-charriere",
+        "Email": "nick@mocha.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Zelos Cloud",
+    "Startup URL": "https://zeloscloud.io",
+    "Startup Description": "",
+    "Startup Keyword": "prototype",
+    "Founders": [
+      {
+        "Name": "Michael Jaradah",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/michaeljaradah/",
+        "Email": "michael@zeloscloud.com"
+      },
+      {
+        "Name": "Taylor Keairns",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/taylor-keairns-872063125/",
+        "Email": "taylor@zeloscloud.com"
+      },
+      {
+        "Name": "John Ott",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/john-b-ott/",
+        "Email": "john@zeloscloud.com"
+      },
+      {
+        "Name": "Taylor",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/taylor-keairns-872063125/",
+        "Email": "taylor@zeloscloud.com"
+      },
+      {
+        "Name": "John",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/john-b-ott/",
+        "Email": "john@zeloscloud.com"
+      },
+      {
+        "Name": "Michael",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/michaeljaradah/",
+        "Email": "michael@zeloscloud.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Yuma AI",
+    "Startup URL": "https://yuma.ai",
+    "Startup Description": "",
+    "Startup Keyword": "prototype",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Vellum",
+    "Startup URL": "https://www.vellum.ai/",
+    "Startup Description": "",
+    "Startup Keyword": "prototype",
+    "Founders": [
+      {
+        "Name": "Akash Sharma",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/akash-sharma53/",
+        "Email": "akash@vellum.com"
+      },
+      {
+        "Name": "Sidd Seethepalli",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/siddseethepalli/",
+        "Email": "sidd@vellum.com"
+      },
+      {
+        "Name": "Noa Flaherty",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/noaflaherty/",
+        "Email": "noa@vellum.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Zapi",
+    "Startup URL": "https://heyzapi.com",
+    "Startup Description": "",
+    "Startup Keyword": "prototype",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Unify",
+    "Startup URL": "https://unify.ai",
+    "Startup Description": "",
+    "Startup Keyword": "prototype",
+    "Founders": []
+  },
+  {
+    "Startup Name": "ALT TEX",
+    "Startup URL": "https://thealttex.com/",
+    "Startup Description": "",
+    "Startup Keyword": "prototype",
+    "Founders": [
+      {
+        "Name": "Avneet Ghotra",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/avneet-ghotra-51284728/",
+        "Email": "avneet@alttex.com"
+      },
+      {
+        "Name": "Myra",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/myra4/",
+        "Email": "myra@alttex.com"
+      },
+      {
+        "Name": "Avneet",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/avneet-ghotra-51284728/",
+        "Email": "avneet@alttex.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Olympian Motors",
+    "Startup URL": "https://olympianmotors.com/",
+    "Startup Description": "",
+    "Startup Keyword": "prototype",
+    "Founders": [
+      {
+        "Name": "Jasmine Sungu",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/jasmine-sungu-208681101/",
+        "Email": "jasmine@olympianmotors.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "REGENT",
+    "Startup URL": "http://regentcraft.com",
+    "Startup Description": "",
+    "Startup Keyword": "prototype",
+    "Founders": [
+      {
+        "Name": "Billy Thalheimer",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/williamthalheimer/",
+        "Email": "billy@regent.com"
+      },
+      {
+        "Name": "Michael Klinker",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/michael-klinker-85a1a989/",
+        "Email": "michael@regent.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Great Question",
+    "Startup URL": "https://greatquestion.co",
+    "Startup Description": "",
+    "Startup Keyword": "prototype",
+    "Founders": [
+      {
+        "Name": "PJ Murray",
+        "Role": "Founder",
+        "LinkedIn": "http://www.linkedin.com/in/pjmurraynz/",
+        "Email": "pj@greatquestion.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Fazeshift",
+    "Startup URL": "https://www.fazeshift.com/",
+    "Startup Description": "",
+    "Startup Keyword": "software startup",
+    "Founders": [
+      {
+        "Name": "Caitlin Leksana",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/caitlinleksana/",
+        "Email": "caitlin@fazeshift.com"
+      },
+      {
+        "Name": "Timmy Galvin",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/timmygalvin/",
+        "Email": "timmy@fazeshift.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "ArchForm",
+    "Startup URL": "http://archform.com",
+    "Startup Description": "",
+    "Startup Keyword": "software startup",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Habit Labs",
+    "Startup URL": "http://habitlabs.com",
+    "Startup Description": "",
+    "Startup Keyword": "software startup",
+    "Founders": [
+      {
+        "Name": "Jen McCabe",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/jensmccabe/",
+        "Email": "jen@habitlabs.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Tally",
+    "Startup URL": "https://tallyhq.com",
+    "Startup Description": "",
+    "Startup Keyword": "software startup",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Fetchr",
+    "Startup URL": "https://www.fetchr.so",
+    "Startup Description": "",
+    "Startup Keyword": "software startup",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Depot",
+    "Startup URL": "https://depot.dev",
+    "Startup Description": "",
+    "Startup Keyword": "software startup",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Onsite Pro",
+    "Startup URL": "https://onsitepro.co",
+    "Startup Description": "",
+    "Startup Keyword": "software startup",
+    "Founders": [
+      {
+        "Name": "Gautam Jayaraman",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/gautamj/",
+        "Email": "gautam@onsitepro.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Logica",
+    "Startup URL": "https://logica.cloud",
+    "Startup Description": "",
+    "Startup Keyword": "software startup",
+    "Founders": [
+      {
+        "Name": "Carissa Castro",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/carissa-castro-3a6174b0/",
+        "Email": "carissa@logica.com"
+      },
+      {
+        "Name": "Leandro Castro",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/lsdcastro/",
+        "Email": "leandro@logica.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Diode Computers, Inc.",
+    "Startup URL": "https://diode.computer",
+    "Startup Description": "",
+    "Startup Keyword": "software startup",
+    "Founders": [
+      {
+        "Name": "Lenny",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/lennykhazan/",
+        "Email": "lenny@diodecomputers,inc..com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Scispot",
+    "Startup URL": "https://scispot.io",
+    "Startup Description": "",
+    "Startup Keyword": "software startup",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Genecis Bio",
+    "Startup URL": "https://www.genecis.co/",
+    "Startup Description": "",
+    "Startup Keyword": "software startup",
+    "Founders": [
+      {
+        "Name": "Luna Yu",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/luna-yu-611a6197/",
+        "Email": "luna@genecisbio.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Paperplane",
+    "Startup URL": "https://www.paperplane.ai/",
+    "Startup Description": "",
+    "Startup Keyword": "software startup",
+    "Founders": [
+      {
+        "Name": "Daniel Kwak",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/dnlkwak/",
+        "Email": "daniel@paperplane.com"
+      },
+      {
+        "Name": "Jack Hopkins",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/jack-ww-hopkins/",
+        "Email": "jack@paperplane.com"
+      },
+      {
+        "Name": "Ben Magolan",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/ben-magolan-69537611a/",
+        "Email": "ben@paperplane.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Finmark",
+    "Startup URL": "https://finmark.com",
+    "Startup Description": "",
+    "Startup Keyword": "software startup",
+    "Founders": [
+      {
+        "Name": "Greg Lissy",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/greglissy/",
+        "Email": "greg@finmark.com"
+      },
+      {
+        "Name": "Jeremy Neuberger",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/jeremy-neuberger/",
+        "Email": "jeremy@finmark.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Parade",
+    "Startup URL": "https://www.getparade.com",
+    "Startup Description": "",
+    "Startup Keyword": "software startup",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Brex",
+    "Startup URL": "https://www.brex.com",
+    "Startup Description": "",
+    "Startup Keyword": "software startup",
+    "Founders": [
+      {
+        "Name": "Pedro Franceschi",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/pfranceschi",
+        "Email": "pedro@brex.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Firecrawl",
+    "Startup URL": "https://www.firecrawl.dev",
+    "Startup Description": "",
+    "Startup Keyword": "software startup",
+    "Founders": [
+      {
+        "Name": "Caleb Peffer",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/caleb-peffer/",
+        "Email": "caleb@firecrawl.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "DisputeNinja",
+    "Startup URL": "https://www.disputeninja.ai",
+    "Startup Description": "",
+    "Startup Keyword": "software startup",
+    "Founders": []
+  },
+  {
+    "Startup Name": "inDinero",
+    "Startup URL": "http://indinero.com",
+    "Startup Description": "",
+    "Startup Keyword": "software startup",
+    "Founders": [
+      {
+        "Name": "Andy Su",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/andydsu",
+        "Email": "andy@indinero.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Vespper",
+    "Startup URL": "https://vespper.com",
+    "Startup Description": "",
+    "Startup Keyword": "software startup",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Casetext",
+    "Startup URL": "http://casetext.com",
+    "Startup Description": "",
+    "Startup Keyword": "Artificial Intelligence",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Caper",
+    "Startup URL": "https://www.caper.ai/",
+    "Startup Description": "",
+    "Startup Keyword": "Artificial Intelligence",
+    "Founders": [
+      {
+        "Name": "Ahmed Beshry",
+        "Role": "Founder",
+        "LinkedIn": "https://ca.linkedin.com/in/ahmedbeshry",
+        "Email": "ahmed@caper.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Scale AI",
+    "Startup URL": "http://scale.com",
+    "Startup Description": "",
+    "Startup Keyword": "Artificial Intelligence",
+    "Founders": [
+      {
+        "Name": "Alexandr Wang",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/alexandrwang",
+        "Email": "alexandr@scaleai.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "iSono Health",
+    "Startup URL": "http://www.isonohealth.com",
+    "Startup Description": "",
+    "Startup Keyword": "Artificial Intelligence",
+    "Founders": [
+      {
+        "Name": "Shadi Saberi",
+        "Role": "Founder",
+        "LinkedIn": "http://www.linkedin.com/in/ssaberig",
+        "Email": "shadi@isonohealth.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "SnapMagic",
+    "Startup URL": "https://www.snapmagic.com",
+    "Startup Description": "",
+    "Startup Keyword": "Artificial Intelligence",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Tara AI",
+    "Startup URL": "http://www.tara.ai",
+    "Startup Description": "",
+    "Startup Keyword": "Artificial Intelligence",
+    "Founders": [
+      {
+        "Name": "Syed Ahmed",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/syedahmedz/",
+        "Email": "syed@taraai.com"
+      },
+      {
+        "Name": "Iba Masood",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/ibamasood",
+        "Email": "iba@taraai.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Zeitview",
+    "Startup URL": "https://www.zeitview.com/",
+    "Startup Description": "",
+    "Startup Keyword": "Artificial Intelligence",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Akido Labs",
+    "Startup URL": "http://akidolabs.com",
+    "Startup Description": "",
+    "Startup Keyword": "Artificial Intelligence",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Qventus",
+    "Startup URL": "http://qventus.com",
+    "Startup Description": "",
+    "Startup Keyword": "Artificial Intelligence",
+    "Founders": [
+      {
+        "Name": "Ian Christopher",
+        "Role": "Founder",
+        "LinkedIn": "http://www.linkedin.com/in/ianfchristopher",
+        "Email": "ian@qventus.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "OpenCurriculum",
+    "Startup URL": "https://opencurriculum.org",
+    "Startup Description": "",
+    "Startup Keyword": "Artificial Intelligence",
+    "Founders": []
+  },
+  {
+    "Startup Name": "RADAR",
+    "Startup URL": "https://goradar.com",
+    "Startup Description": "",
+    "Startup Keyword": "Artificial Intelligence",
+    "Founders": [
+      {
+        "Name": "Spencer Hewett",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/spencerhewett",
+        "Email": "spencer@radar.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Plivo",
+    "Startup URL": "https://plivo.com",
+    "Startup Description": "",
+    "Startup Keyword": "Artificial Intelligence",
+    "Founders": [
+      {
+        "Name": "Michael Ricordeau",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/michaelricordeau/",
+        "Email": "michael@plivo.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Vulcan Technologies",
+    "Startup URL": "https://www.vulcan-tech.com/",
+    "Startup Description": "",
+    "Startup Keyword": "Artificial Intelligence",
+    "Founders": [
+      {
+        "Name": "Aleksander Mekhanik",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/alek-mekhanik-41547b272/",
+        "Email": "aleksander@vulcantechnologies.com"
+      },
+      {
+        "Name": "Chris Minge",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/chrisminge",
+        "Email": "chris@vulcantechnologies.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Reacher",
+    "Startup URL": "https://reacherapp.com/",
+    "Startup Description": "",
+    "Startup Keyword": "Artificial Intelligence",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Altur",
+    "Startup URL": "https://altur.io",
+    "Startup Description": "",
+    "Startup Keyword": "Artificial Intelligence",
+    "Founders": [
+      {
+        "Name": "Pedro Fernández",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/pedrofdzl",
+        "Email": "pedro@altur.com"
+      },
+      {
+        "Name": "Luis Olave",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/luis-olave",
+        "Email": "luis@altur.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Autosana",
+    "Startup URL": "https://autosana.ai",
+    "Startup Description": "",
+    "Startup Keyword": "Artificial Intelligence",
+    "Founders": [
+      {
+        "Name": "Jason Steinberg",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/jason-steinberg-6018261b6/",
+        "Email": "jason@autosana.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Finto",
+    "Startup URL": "https://www.gofinto.com/",
+    "Startup Description": "",
+    "Startup Keyword": "Artificial Intelligence",
+    "Founders": [
+      {
+        "Name": "Linus Boehm",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/linus-boehm/",
+        "Email": "linus@finto.com"
+      },
+      {
+        "Name": "Jonas Morgner",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/jonasmorgner/",
+        "Email": "jonas@finto.com"
+      },
+      {
+        "Name": "Lorenz Neuner",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/lorenz-neuner/",
+        "Email": "lorenz@finto.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Nozomio",
+    "Startup URL": "https://www.nozomio.com/",
+    "Startup Description": "",
+    "Startup Keyword": "Artificial Intelligence",
+    "Founders": []
+  },
+  {
+    "Startup Name": "AgentMail",
+    "Startup URL": "https://agentmail.to",
+    "Startup Description": "",
+    "Startup Keyword": "Artificial Intelligence",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Verge Genomics",
+    "Startup URL": "http://vergegenomics.com",
+    "Startup Description": "",
+    "Startup Keyword": "AI-powered",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Atomwise",
+    "Startup URL": "http://atomwise.com",
+    "Startup Description": "",
+    "Startup Keyword": "AI-powered",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Godela",
+    "Startup URL": "http://godela.ai",
+    "Startup Description": "",
+    "Startup Keyword": "AI-powered",
+    "Founders": [
+      {
+        "Name": "Cinnamon Sipper",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/cinnamonsipper",
+        "Email": "cinnamon@godela.com"
+      },
+      {
+        "Name": "Abhijit Pranav Pamarty",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/abhijit-pranav-pamarty-6b2453152/",
+        "Email": "abhijit@godela.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "RunRL",
+    "Startup URL": "https://runrl.com",
+    "Startup Description": "",
+    "Startup Keyword": "AI-powered",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Reticular",
+    "Startup URL": "https://reticular.ai",
+    "Startup Description": "",
+    "Startup Keyword": "AI-powered",
+    "Founders": [
+      {
+        "Name": "John Yang",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/johnyang101",
+        "Email": "john@reticular.com"
+      },
+      {
+        "Name": "Nithin",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/nithin-parsan",
+        "Email": "nithin@reticular.com"
+      },
+      {
+        "Name": "John",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/johnyang101",
+        "Email": "john@reticular.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Ångström AI",
+    "Startup URL": "https://www.angstrom-ai.com",
+    "Startup Description": "",
+    "Startup Keyword": "AI-powered",
+    "Founders": [
+      {
+        "Name": "Jose Miguel Hernandez Lobato",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/jose-miguel-hernandez-lobato-7790512a5",
+        "Email": "jose@ångströmai.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Evolvere BioSciences",
+    "Startup URL": "https://www.evolverebiosciences.com/",
+    "Startup Description": "",
+    "Startup Keyword": "AI-powered",
+    "Founders": [
+      {
+        "Name": "Adam Winnifrith",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/adam-winnifrith-b438ab182",
+        "Email": "adam@evolverebiosciences.com"
+      },
+      {
+        "Name": "Piotr Jedryszek",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/piotr-jedryszek-085991180",
+        "Email": "piotr@evolverebiosciences.com"
+      },
+      {
+        "Name": "Weronika Slesak",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/weronika-slesak",
+        "Email": "weronika@evolverebiosciences.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Tamarind Bio",
+    "Startup URL": "https://www.tamarind.bio",
+    "Startup Description": "",
+    "Startup Keyword": "AI-powered",
+    "Founders": [
+      {
+        "Name": "Sherry Liu",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/sherryliu987",
+        "Email": "sherry@tamarindbio.com"
+      },
+      {
+        "Name": "Deniz",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/deniz-kavi",
+        "Email": "deniz@tamarindbio.com"
+      },
+      {
+        "Name": "Sherry",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/sherryliu987",
+        "Email": "sherry@tamarindbio.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Nanograb",
+    "Startup URL": "https://nanograb.com",
+    "Startup Description": "",
+    "Startup Keyword": "AI-powered",
+    "Founders": [
+      {
+        "Name": "Debesh Mandal",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/debeshmandal",
+        "Email": "debesh@nanograb.com"
+      },
+      {
+        "Name": "Debesh Mandal",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/debeshmandal",
+        "Email": "debesh@nanograb.com"
+      },
+      {
+        "Name": "Shanil Panara",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/shanilpanara",
+        "Email": "shanil@nanograb.com"
+      },
+      {
+        "Name": "Christopher Lau",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/christopher-lau-54279815",
+        "Email": "christopher@nanograb.com"
+      },
+      {
+        "Name": "Dr. Stefano Angioletti-Uberti",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/stefano-angioletti-uberti-b8319860/",
+        "Email": "dr.@nanograb.com"
+      },
+      {
+        "Name": "Professor Molly Stevens",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/molly-stevens-81742822/",
+        "Email": "professor@nanograb.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Diffuse Bio",
+    "Startup URL": "http://diffuse.bio",
+    "Startup Description": "",
+    "Startup Keyword": "AI-powered",
+    "Founders": [
+      {
+        "Name": "Namrata Anand",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/namrata-a-427807188/",
+        "Email": "namrata@diffusebio.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Lavo Life Sciences",
+    "Startup URL": "https://www.lavo.ai/",
+    "Startup Description": "",
+    "Startup Keyword": "AI-powered",
+    "Founders": [
+      {
+        "Name": "Scott Swarthout",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/scottswarthout",
+        "Email": "scott@lavolifesciences.com"
+      },
+      {
+        "Name": "Zach Glick",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/zach-glick-800b75219/",
+        "Email": "zach@lavolifesciences.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Rosebud Biosciences",
+    "Startup URL": "https://rosebudbiosciences.com/",
+    "Startup Description": "",
+    "Startup Keyword": "AI-powered",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Keylika",
+    "Startup URL": "https://www.keylika.com",
+    "Startup Description": "",
+    "Startup Keyword": "AI-powered",
+    "Founders": [
+      {
+        "Name": "Frederik Ceyssens",
+        "Role": "Founder",
+        "LinkedIn": "http://linkedin.com/in/frederik-ceyssens-43b6ab5",
+        "Email": "frederik@keylika.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Medium Biosciences",
+    "Startup URL": "http://medium.bio",
+    "Startup Description": "",
+    "Startup Keyword": "AI-powered",
+    "Founders": [
+      {
+        "Name": "Adil Yusuf",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/adil-yusuf",
+        "Email": "adil@mediumbiosciences.com"
+      },
+      {
+        "Name": "Mohamed Hassan Kane",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/mohamed-hassan-kane-4b50328a?trk=nav_responsive_tab_profile",
+        "Email": "mohamed@mediumbiosciences.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "SFA Therapeutics",
+    "Startup URL": "https://sfatherapeutics.com/",
+    "Startup Description": "",
+    "Startup Keyword": "AI-powered",
+    "Founders": [
+      {
+        "Name": "Ira Spector",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/ira-spector-00414310/",
+        "Email": "ira@sfatherapeutics.com"
+      },
+      {
+        "Name": "Alla Arzumanyan",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/alla-arzumanyan-66a79a18b",
+        "Email": "alla@sfatherapeutics.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "CellChorus",
+    "Startup URL": "https://cellchorus.com",
+    "Startup Description": "",
+    "Startup Keyword": "AI-powered",
+    "Founders": [
+      {
+        "Name": "Navin Varadarajan",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/navin-varadarajan-95207814",
+        "Email": "navin@cellchorus.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Output Biosciences",
+    "Startup URL": "https://www.outputbio.com/",
+    "Startup Description": "",
+    "Startup Keyword": "AI-powered",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Matrubials",
+    "Startup URL": "https://matrubials.com/",
+    "Startup Description": "",
+    "Startup Keyword": "AI-powered",
+    "Founders": [
+      {
+        "Name": "Ishita Shah",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/ishita-m-shah-ph-d-a6a9664/",
+        "Email": "ishita@matrubials.com"
+      },
+      {
+        "Name": "Bruce German",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/bruce-german-2632a28",
+        "Email": "bruce@matrubials.com"
+      },
+      {
+        "Name": "Carlito Lebrilla",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/carlito-lebrilla-9166429/",
+        "Email": "carlito@matrubials.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Adaptyv",
+    "Startup URL": "https://www.adaptyvbio.com/",
+    "Startup Description": "",
+    "Startup Keyword": "AI-powered",
+    "Founders": [
+      {
+        "Name": "Daniel Nakhaee-Zadeh Gutierrez",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/danielnzg",
+        "Email": "daniel@adaptyv.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "AgileMD",
+    "Startup URL": "https://agilemd.com",
+    "Startup Description": "",
+    "Startup Keyword": "Machine Learning",
+    "Founders": [
+      {
+        "Name": "Borna Safabakhsh",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/bornas/",
+        "Email": "borna@agilemd.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Tempo",
+    "Startup URL": "https://tempo.fit/",
+    "Startup Description": "",
+    "Startup Keyword": "Machine Learning",
+    "Founders": [
+      {
+        "Name": "Moawia Eldeeb",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/moawiaeldeeb",
+        "Email": "moawia@tempo.com"
+      },
+      {
+        "Name": "Joshua Augustin",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/joshua-augustin-56ba268a",
+        "Email": "joshua@tempo.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "PicnicHealth",
+    "Startup URL": "https://picnichealth.com",
+    "Startup Description": "",
+    "Startup Keyword": "Machine Learning",
+    "Founders": [
+      {
+        "Name": "Troy Astorino",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/troyastorino",
+        "Email": "troy@picnichealth.com"
+      },
+      {
+        "Name": "Noga Leviner",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/nogaleviner",
+        "Email": "noga@picnichealth.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "MTailor",
+    "Startup URL": "http://mtailor.com",
+    "Startup Description": "",
+    "Startup Keyword": "Machine Learning",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Bluejay",
+    "Startup URL": "https://getbluejay.ai/",
+    "Startup Description": "",
+    "Startup Keyword": "Machine Learning",
+    "Founders": [
+      {
+        "Name": "Rohan Vasishth",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/rohanvas/",
+        "Email": "rohan@bluejay.com"
+      },
+      {
+        "Name": "Rohan",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/rohanvas/",
+        "Email": "rohan@bluejay.com"
+      },
+      {
+        "Name": "Faraz",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/farazmsiddiqi/",
+        "Email": "faraz@bluejay.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "The Robot Learning Company",
+    "Startup URL": "https://www.robot-learning.co/",
+    "Startup Description": "",
+    "Startup Keyword": "Machine Learning",
+    "Founders": [
+      {
+        "Name": "Jannik",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/jannik-grothusen/",
+        "Email": "jannik@therobotlearningcompany.com"
+      },
+      {
+        "Name": "Jannik",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/jannik-grothusen/",
+        "Email": "jannik@therobotlearningcompany.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Plexe",
+    "Startup URL": "https://plexe.ai",
+    "Startup Description": "",
+    "Startup Keyword": "Machine Learning",
+    "Founders": [
+      {
+        "Name": "Marcello De Bernardi",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/marcello-de-bernardi/",
+        "Email": "marcello@plexe.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Metreecs",
+    "Startup URL": "https://www.metreecs.com",
+    "Startup Description": "",
+    "Startup Keyword": "Machine Learning",
+    "Founders": [
+      {
+        "Name": "Martin Dimitrov",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/mardimitrov/",
+        "Email": "martin@metreecs.com"
+      },
+      {
+        "Name": "Elie Dufeu",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/elie-dufeu-goldenberg",
+        "Email": "elie@metreecs.com"
+      },
+      {
+        "Name": "Thibaut Pellegrin",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/thibaut-pellegrin-0b4353171/",
+        "Email": "thibaut@metreecs.com"
+      },
+      {
+        "Name": "@Thibaut Pellegrin",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/thibautpellegrin/",
+        "Email": "@thibaut@metreecs.com"
+      },
+      {
+        "Name": "@Elie Dufeu",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/elie-dufeu-goldenberg/",
+        "Email": "@elie@metreecs.com"
+      },
+      {
+        "Name": "@Martin Dimitrov",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/mardimitrov/",
+        "Email": "@martin@metreecs.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Moonshine",
+    "Startup URL": "https://usemoonshine.com",
+    "Startup Description": "",
+    "Startup Keyword": "Machine Learning",
+    "Founders": [
+      {
+        "Name": "Ganesh Pimpale",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/ganesh-pimpale",
+        "Email": "ganesh@moonshine.com"
+      },
+      {
+        "Name": "Harsha Gundala",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/harshagundala",
+        "Email": "harsha@moonshine.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Karmen",
+    "Startup URL": "https://www.karmenai.com",
+    "Startup Description": "",
+    "Startup Keyword": "Machine Learning",
+    "Founders": [
+      {
+        "Name": "Jonas Ebrahimi",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/aabrbaskfna",
+        "Email": "jonas@karmen.com"
+      },
+      {
+        "Name": "Naman Wahi",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/naman-wahi/",
+        "Email": "naman@karmen.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Astrix Health",
+    "Startup URL": "https://www.astrix.health",
+    "Startup Description": "",
+    "Startup Keyword": "Machine Learning",
+    "Founders": [
+      {
+        "Name": "Abhinav Swaminathan",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/abuswami/",
+        "Email": "abhinav@astrixhealth.com"
+      },
+      {
+        "Name": "Thomas Blake",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/thomas-blake-abbba0151/",
+        "Email": "thomas@astrixhealth.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Oway",
+    "Startup URL": "https://www.shipoway.com",
+    "Startup Description": "",
+    "Startup Keyword": "Machine Learning",
+    "Founders": [
+      {
+        "Name": "Phillip Nadjafov",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/phillipnadjafov/",
+        "Email": "phillip@oway.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Cartage",
+    "Startup URL": "https://cartage.ai",
+    "Startup Description": "",
+    "Startup Keyword": "Machine Learning",
+    "Founders": [
+      {
+        "Name": "Abdul Basharat",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/abashara/",
+        "Email": "abdul@cartage.com"
+      },
+      {
+        "Name": "Josh Lampen",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/joshlampen",
+        "Email": "josh@cartage.com"
+      },
+      {
+        "Name": "Abdul Basharat",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/abashara/",
+        "Email": "abdul@cartage.com"
+      },
+      {
+        "Name": "Josh Lampen",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/joshlampen/",
+        "Email": "josh@cartage.com"
+      },
+      {
+        "Name": "Harman Sahota",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/harmansahota/",
+        "Email": "harman@cartage.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "MinusX",
+    "Startup URL": "https://minusx.ai",
+    "Startup Description": "",
+    "Startup Keyword": "Machine Learning",
+    "Founders": []
+  },
+  {
+    "Startup Name": "mdhub",
+    "Startup URL": "https://www.mdhub.ai/",
+    "Startup Description": "",
+    "Startup Keyword": "Machine Learning",
+    "Founders": [
+      {
+        "Name": "Dominik Middelmann",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/dominik-middelmann-01232378/",
+        "Email": "dominik@mdhub.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Undermind",
+    "Startup URL": "https://www.undermind.ai",
+    "Startup Description": "",
+    "Startup Keyword": "Machine Learning",
+    "Founders": [
+      {
+        "Name": "Joshua Ramette",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/joshua-ramette-50984791",
+        "Email": "joshua@undermind.com"
+      },
+      {
+        "Name": "Tom Hartke",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/thomas-hartke-229a0679/",
+        "Email": "tom@undermind.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "K-Scale Labs",
+    "Startup URL": "https://kscale.dev/",
+    "Startup Description": "",
+    "Startup Keyword": "Machine Learning",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Simplex",
+    "Startup URL": "https://simplex.sh",
+    "Startup Description": "",
+    "Startup Keyword": "Machine Learning",
+    "Founders": [
+      {
+        "Name": "Shreya Karpoor",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/shreya-karpoor",
+        "Email": "shreya@simplex.com"
+      },
+      {
+        "Name": "Marco Nocito",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/marco-nocito/",
+        "Email": "marco@simplex.com"
+      },
+      {
+        "Name": "Shreya Karpoor",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/shreya-karpoor/",
+        "Email": "shreya@simplex.com"
+      },
+      {
+        "Name": "Marco Nocito",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/marco-nocito/",
+        "Email": "marco@simplex.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Catamaran",
+    "Startup URL": "https://www.trycatamaran.com",
+    "Startup Description": "",
+    "Startup Keyword": "Machine Learning",
+    "Founders": [
+      {
+        "Name": "Benedict Altier",
+        "Role": "Founder",
+        "LinkedIn": "https://uk.linkedin.com/in/benedict-altier-0041748b",
+        "Email": "benedict@catamaran.com"
+      },
+      {
+        "Name": "Lucas Schneider",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/lucas-sch",
+        "Email": "lucas@catamaran.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "MixerBox",
+    "Startup URL": "http://mixerbox.com",
+    "Startup Description": "",
+    "Startup Keyword": "Generative AI",
+    "Founders": [
+      {
+        "Name": "John Lai",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/johnlai1/",
+        "Email": "john@mixerbox.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Hera",
+    "Startup URL": "https://hera.video/",
+    "Startup Description": "",
+    "Startup Keyword": "Generative AI",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Wisp AI",
+    "Startup URL": "https://wispai.app/",
+    "Startup Description": "",
+    "Startup Keyword": "Generative AI",
+    "Founders": [
+      {
+        "Name": "Aditya Mahna",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/aditya-mahna-b57256325/",
+        "Email": "aditya@wispai.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Flai",
+    "Startup URL": "https://www.useflai.com/",
+    "Startup Description": "",
+    "Startup Keyword": "Generative AI",
+    "Founders": [
+      {
+        "Name": "Juan Alzugaray",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/jfalzugaray/",
+        "Email": "juan@flai.com"
+      },
+      {
+        "Name": "Alen Polakof",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/alenpolakof",
+        "Email": "alen@flai.com"
+      },
+      {
+        "Name": "Ari Polakof",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/ari-polakof-78b976150/",
+        "Email": "ari@flai.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Cohesive",
+    "Startup URL": "https://getcohesiveai.com",
+    "Startup Description": "",
+    "Startup Keyword": "Generative AI",
+    "Founders": [
+      {
+        "Name": "Nam Nguyen",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/nam-nguyen96/",
+        "Email": "nam@cohesive.com"
+      },
+      {
+        "Name": "Kevin",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/kevindzhang/",
+        "Email": "kevin@cohesive.com"
+      },
+      {
+        "Name": "Nam",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/nam-nguyen96/",
+        "Email": "nam@cohesive.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Bond",
+    "Startup URL": "https://www.bondapp.io/",
+    "Startup Description": "",
+    "Startup Keyword": "Generative AI",
+    "Founders": [
+      {
+        "Name": "Chloe",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/chloesamaha/",
+        "Email": "chloe@bond.com"
+      },
+      {
+        "Name": "Rene",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/renesultan/",
+        "Email": "rene@bond.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "LineWise",
+    "Startup URL": "https://www.linewise.io/",
+    "Startup Description": "",
+    "Startup Keyword": "Generative AI",
+    "Founders": [
+      {
+        "Name": "Tanachart (James) Kujareevanich",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/tanachartkujareevanich/",
+        "Email": "tanachart@linewise.com"
+      },
+      {
+        "Name": "Zhichu Ren",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/zhichu-ren/",
+        "Email": "zhichu@linewise.com"
+      },
+      {
+        "Name": "Wenbo Zhang",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/wenbo-zhang6",
+        "Email": "wenbo@linewise.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Cleon",
+    "Startup URL": "https://getcleon.ai",
+    "Startup Description": "",
+    "Startup Keyword": "Generative AI",
+    "Founders": [
+      {
+        "Name": "Ricardo Pantaleon",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/ricardo-pantaleon-9b6959135/",
+        "Email": "ricardo@cleon.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Auctor",
+    "Startup URL": "https://getauctor.com",
+    "Startup Description": "",
+    "Startup Keyword": "Generative AI",
+    "Founders": [
+      {
+        "Name": "William Sun",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/weihongsun/",
+        "Email": "william@auctor.com"
+      },
+      {
+        "Name": "Anthony Sky Ng-Thow-Hing",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/anthony-sky-ng-thow-hing-9b1352193/",
+        "Email": "anthony@auctor.com"
+      },
+      {
+        "Name": "Xinan Rahman",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/xinanrahman/",
+        "Email": "xinan@auctor.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Waffle",
+    "Startup URL": "https://www.waffle.ai",
+    "Startup Description": "",
+    "Startup Keyword": "Generative AI",
+    "Founders": [
+      {
+        "Name": "Diogo Valdivieso",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/diogo-vddc/",
+        "Email": "diogo@waffle.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Permitify",
+    "Startup URL": "https://permitify.com",
+    "Startup Description": "",
+    "Startup Keyword": "Generative AI",
+    "Founders": [
+      {
+        "Name": "Adam Chandler",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/adam-chandler99/",
+        "Email": "adam@permitify.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Calltree AI",
+    "Startup URL": "https://calltree.ai",
+    "Startup Description": "",
+    "Startup Keyword": "Generative AI",
+    "Founders": [
+      {
+        "Name": "Kun Qian",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/qian-kun/",
+        "Email": "kun@calltreeai.com"
+      },
+      {
+        "Name": "Robertson Taylor",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/robertsonotaylor/",
+        "Email": "robertson@calltreeai.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Operand",
+    "Startup URL": "https://www.operand.com/",
+    "Startup Description": "",
+    "Startup Keyword": "Generative AI",
+    "Founders": [
+      {
+        "Name": "Arjun Sahney",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/arjun-sahney-40b88624b/",
+        "Email": "arjun@operand.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Vora AI",
+    "Startup URL": "https://www.usevora.ai/",
+    "Startup Description": "",
+    "Startup Keyword": "Generative AI",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Rocketable",
+    "Startup URL": "https://www.rocketable.com",
+    "Startup Description": "",
+    "Startup Keyword": "Generative AI",
+    "Founders": []
+  },
+  {
+    "Startup Name": "awen",
+    "Startup URL": "https://www.awen.ai/",
+    "Startup Description": "",
+    "Startup Keyword": "Generative AI",
+    "Founders": [
+      {
+        "Name": "Thibault Henriet",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/thibault-henriet-595a5860",
+        "Email": "thibault@awen.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Dollyglot",
+    "Startup URL": "https://www.dollyglot.com/",
+    "Startup Description": "",
+    "Startup Keyword": "Generative AI",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Chorrie",
+    "Startup URL": "https://chorrie.com",
+    "Startup Description": "",
+    "Startup Keyword": "Generative AI",
+    "Founders": [
+      {
+        "Name": "Christopher Schlaepfer",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/cschlaep/",
+        "Email": "christopher@chorrie.com"
+      },
+      {
+        "Name": "Jorrie Brettin",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/jorrie-brettin-349a6383/",
+        "Email": "jorrie@chorrie.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Pearson Labs",
+    "Startup URL": "http://www.pearsonlabs.ai",
+    "Startup Description": "",
+    "Startup Keyword": "Generative AI",
+    "Founders": [
+      {
+        "Name": "Stephanie Young",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/stephanieyoung1/",
+        "Email": "stephanie@pearsonlabs.com"
+      },
+      {
+        "Name": "Qi Yang",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/qi-yang-mit/",
+        "Email": "qi@pearsonlabs.com"
+      },
+      {
+        "Name": "Steph",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/stephanieyoung1/",
+        "Email": "steph@pearsonlabs.com"
+      },
+      {
+        "Name": "Qi",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/qi-yang-mit/",
+        "Email": "qi@pearsonlabs.com"
+      },
+      {
+        "Name": "Steph",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/stephanieyoung1/",
+        "Email": "steph@pearsonlabs.com"
+      },
+      {
+        "Name": "Qi",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/qi-yang-mit/",
+        "Email": "qi@pearsonlabs.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Mosaix.ai",
+    "Startup URL": "https://mosaix.ai",
+    "Startup Description": "",
+    "Startup Keyword": "NLP",
+    "Founders": [
+      {
+        "Name": "Satori He",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/chenghe-satori",
+        "Email": "satori@mosaix.ai.com"
+      },
+      {
+        "Name": "Sam Liu",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/sumangliu",
+        "Email": "sam@mosaix.ai.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Guggy",
+    "Startup URL": "https://guggy.com",
+    "Startup Description": "",
+    "Startup Keyword": "NLP",
+    "Founders": [
+      {
+        "Name": "Shahar Yakir",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/shahar-yakir-1895a13",
+        "Email": "shahar@guggy.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Onyx",
+    "Startup URL": "https://www.onyx.app/",
+    "Startup Description": "",
+    "Startup Keyword": "NLP",
+    "Founders": [
+      {
+        "Name": "Yuhong Sun",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/yuhongsun",
+        "Email": "yuhong@onyx.com"
+      },
+      {
+        "Name": "Chris Weaver",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/chris-weaver101",
+        "Email": "chris@onyx.com"
+      },
+      {
+        "Name": "Onyx",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/onyx-dot-app/",
+        "Email": "onyx@onyx.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "CoLoop",
+    "Startup URL": "https://coloop.ai/",
+    "Startup Description": "",
+    "Startup Keyword": "NLP",
+    "Founders": [
+      {
+        "Name": "Jack Bowen",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/jack-bowen-ab6b7018a/",
+        "Email": "jack@coloop.com"
+      },
+      {
+        "Name": "Adrien Wald",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/adrien-wald-862495136",
+        "Email": "adrien@coloop.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Compose.ai",
+    "Startup URL": "https://compose.ai",
+    "Startup Description": "",
+    "Startup Keyword": "NLP",
+    "Founders": [
+      {
+        "Name": "Michael Shuffett",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/mshuffett",
+        "Email": "michael@compose.ai.com"
+      },
+      {
+        "Name": "Wilson Mitchell",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/wilsonmitchell",
+        "Email": "wilson@compose.ai.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Flowbot",
+    "Startup URL": "https://www.getflowbot.com",
+    "Startup Description": "",
+    "Startup Keyword": "NLP",
+    "Founders": [
+      {
+        "Name": "Amar Agasaveeran",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/amar-a-ba263ab2/",
+        "Email": "amar@flowbot.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Wit.ai",
+    "Startup URL": "http://wit.ai",
+    "Startup Description": "",
+    "Startup Keyword": "NLP",
+    "Founders": []
+  },
+  {
+    "Startup Name": "ScopeAI",
+    "Startup URL": "https://www.getscopeai.com",
+    "Startup Description": "",
+    "Startup Keyword": "NLP",
+    "Founders": [
+      {
+        "Name": "Natalie Abeysena",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/natalieabeysena",
+        "Email": "natalie@scopeai.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Docucharm",
+    "Startup URL": "http://www.docucharm.com",
+    "Startup Description": "",
+    "Startup Keyword": "NLP",
+    "Founders": [
+      {
+        "Name": "Sachith Gullapalli",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/sachith-gullapalli-68719aa0/",
+        "Email": "sachith@docucharm.com"
+      },
+      {
+        "Name": "Minh Pham",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/minhtripham",
+        "Email": "minh@docucharm.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "voize",
+    "Startup URL": "https://voize.de/",
+    "Startup Description": "",
+    "Startup Keyword": "NLP",
+    "Founders": [
+      {
+        "Name": "Fabio Schmidberger",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/fabioschmidberger/",
+        "Email": "fabio@voize.com"
+      },
+      {
+        "Name": "Marcel Schmidberger",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/marcel-schmidberger/",
+        "Email": "marcel@voize.com"
+      },
+      {
+        "Name": "Erik Ziegler",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/erksch",
+        "Email": "erik@voize.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "HyperGlue",
+    "Startup URL": "https://www.hyperglue.com",
+    "Startup Description": "",
+    "Startup Keyword": "NLP",
+    "Founders": [
+      {
+        "Name": "Samuel Oluwalana",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/soluwalana/",
+        "Email": "samuel@hyperglue.com"
+      },
+      {
+        "Name": "Stanley Fich",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/sfich03/",
+        "Email": "stanley@hyperglue.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Plasticity",
+    "Startup URL": "https://www.plasticity.ai",
+    "Startup Description": "",
+    "Startup Keyword": "NLP",
+    "Founders": [
+      {
+        "Name": "Ajay Patel",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/ajay-patel-ab876795/",
+        "Email": "ajay@plasticity.com"
+      },
+      {
+        "Name": "Alex Sands",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/alexsands/",
+        "Email": "alex@plasticity.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "RankScience",
+    "Startup URL": "https://www.rankscience.com",
+    "Startup Description": "",
+    "Startup Keyword": "NLP",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Shipamax",
+    "Startup URL": "https://shipamax.com",
+    "Startup Description": "",
+    "Startup Keyword": "NLP",
+    "Founders": [
+      {
+        "Name": "Fabian Blaicher",
+        "Role": "Founder",
+        "LinkedIn": "https://uk.linkedin.com/in/fabian-blaicher-86936120",
+        "Email": "fabian@shipamax.com"
+      },
+      {
+        "Name": "Jenna Brown",
+        "Role": "Founder",
+        "LinkedIn": "https://uk.linkedin.com/in/jenna-brown-2539b716",
+        "Email": "jenna@shipamax.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "NuMind",
+    "Startup URL": "https://www.numind.ai",
+    "Startup Description": "",
+    "Startup Keyword": "NLP",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Kraftful",
+    "Startup URL": "http://www.kraftful.com/",
+    "Startup Description": "",
+    "Startup Keyword": "NLP",
+    "Founders": []
+  },
+  {
+    "Startup Name": "HomeRoom",
+    "Startup URL": "https://livehomeroom.com/",
+    "Startup Description": "",
+    "Startup Keyword": "NLP",
+    "Founders": [
+      {
+        "Name": "Johnny Wolff",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/johnnywolff/",
+        "Email": "johnny@homeroom.com"
+      },
+      {
+        "Name": "Mike Tich",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/michael-tich-53849b30/",
+        "Email": "mike@homeroom.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Cosine",
+    "Startup URL": "http://www.cosine.sh",
+    "Startup Description": "",
+    "Startup Keyword": "NLP",
+    "Founders": [
+      {
+        "Name": "Sam Stenner",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/samstenner",
+        "Email": "sam@cosine.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Cero",
+    "Startup URL": "https://cero.ai",
+    "Startup Description": "",
+    "Startup Keyword": "NLP",
+    "Founders": [
+      {
+        "Name": "Felipe Rodríguez",
+        "Role": "Founder",
+        "LinkedIn": "https://cl.linkedin.com/in/luis-felipe-rodríguez-besa-31ba772a",
+        "Email": "felipe@cero.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Aegis",
+    "Startup URL": "https://aegishealth.us/",
+    "Startup Description": "",
+    "Startup Keyword": "Full-stack development",
+    "Founders": [
+      {
+        "Name": "Krishang Todi",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/krishang-todi-a6525b135/?trk=opento_sprofile_details",
+        "Email": "krishang@aegis.com"
+      },
+      {
+        "Name": "Aarav Bajaj",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/aarav-bajaj-408ab01b1/",
+        "Email": "aarav@aegis.com"
+      },
+      {
+        "Name": "Dhanya Shah",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/dhanya-shah-97878835b/",
+        "Email": "dhanya@aegis.com"
+      },
+      {
+        "Name": "Krishang Todi",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/krishang-todi-a6525b135",
+        "Email": "krishang@aegis.com"
+      },
+      {
+        "Name": "Aarav Bajaj",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/aarav-bajaj-408ab01b1",
+        "Email": "aarav@aegis.com"
+      },
+      {
+        "Name": "Dhanya Shah",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/dhanya-shah-97878835b",
+        "Email": "dhanya@aegis.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Terracotta AI",
+    "Startup URL": "https://tryterracotta.com",
+    "Startup Description": "",
+    "Startup Keyword": "Full-stack development",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Wild Moose",
+    "Startup URL": "https://wildmoose.ai",
+    "Startup Description": "",
+    "Startup Keyword": "Full-stack development",
+    "Founders": [
+      {
+        "Name": "Yasmin Dunsky",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/yasmin-dunsky-519a4ab2/",
+        "Email": "yasmin@wildmoose.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Eazipay Inc.",
+    "Startup URL": "https://myeazipay.com",
+    "Startup Description": "",
+    "Startup Keyword": "Full-stack development",
+    "Founders": []
+  },
+  {
+    "Startup Name": "CarbonChain",
+    "Startup URL": "https://carbonchain.com",
+    "Startup Description": "",
+    "Startup Keyword": "Full-stack development",
+    "Founders": [
+      {
+        "Name": "Adam Hearne",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/adamhearne/",
+        "Email": "adam@carbonchain.com"
+      },
+      {
+        "Name": "ROHEET SHAH",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/roheetshah/",
+        "Email": "roheet@carbonchain.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Payload",
+    "Startup URL": "https://payloadcms.com",
+    "Startup Description": "",
+    "Startup Keyword": "Full-stack development",
+    "Founders": []
+  },
+  {
+    "Startup Name": "AccioJob",
+    "Startup URL": "http://www.acciojob.com",
+    "Startup Description": "",
+    "Startup Keyword": "Full-stack development",
+    "Founders": [
+      {
+        "Name": "Vishu Bansal",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/vishu-bansal-70a260a3",
+        "Email": "vishu@acciojob.com"
+      },
+      {
+        "Name": "Harsh Sharma",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/harsh-sharma-791082bb",
+        "Email": "harsh@acciojob.com"
+      },
+      {
+        "Name": "Priyanshu Agarwal",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/priyanshu-agarwal-949719b7/",
+        "Email": "priyanshu@acciojob.com"
+      },
+      {
+        "Name": "Yashwardhan Burad",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/yashwardhan-burad-50bb75b5/",
+        "Email": "yashwardhan@acciojob.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Loombotic",
+    "Startup URL": "https://www.loombotic.com",
+    "Startup Description": "",
+    "Startup Keyword": "Full-stack development",
+    "Founders": [
+      {
+        "Name": "Lucas Crupi",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/lucas-crupi-4a7037177",
+        "Email": "lucas@loombotic.com"
+      },
+      {
+        "Name": "Ethan Breit",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/ethan-breit-a7ba81180",
+        "Email": "ethan@loombotic.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Gobillion",
+    "Startup URL": "https://gobillion.co",
+    "Startup Description": "",
+    "Startup Keyword": "Full-stack development",
+    "Founders": [
+      {
+        "Name": "Roshan Farhan",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/roshanfarhan/",
+        "Email": "roshan@gobillion.com"
+      },
+      {
+        "Name": "Kulapradip Bharali",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/kulapradipbharali/",
+        "Email": "kulapradip@gobillion.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Encord",
+    "Startup URL": "https://encord.com",
+    "Startup Description": "",
+    "Startup Keyword": "Full-stack development",
+    "Founders": [
+      {
+        "Name": "Ulrik Stig Hansen",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/ulrik-stig-hansen-2658273b/",
+        "Email": "ulrik@encord.com"
+      },
+      {
+        "Name": "Eric Landau",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/eric-landau-40992ab0/",
+        "Email": "eric@encord.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Magic Hour",
+    "Startup URL": "https://magichour.ai",
+    "Startup Description": "",
+    "Startup Keyword": "Full-stack development",
+    "Founders": [
+      {
+        "Name": "Runbo",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/runboli/",
+        "Email": "runbo@magichour.com"
+      },
+      {
+        "Name": "David",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/davidhu2000/",
+        "Email": "david@magichour.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Fullstack Academy",
+    "Startup URL": "http://fullstackacademy.com",
+    "Startup Description": "",
+    "Startup Keyword": "Full-stack development",
+    "Founders": [
+      {
+        "Name": "David Yang",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/davidgyang",
+        "Email": "david@fullstackacademy.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Triplit",
+    "Startup URL": "https://www.triplit.dev",
+    "Startup Description": "",
+    "Startup Keyword": "Full-stack development",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Repaint",
+    "Startup URL": "https://repaint.com",
+    "Startup Description": "",
+    "Startup Keyword": "Full-stack development",
+    "Founders": [
+      {
+        "Name": "Izak Fritz",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/izak-fritz-3b8579120",
+        "Email": "izak@repaint.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Operative",
+    "Startup URL": "https://operative.sh/",
+    "Startup Description": "",
+    "Startup Keyword": "Full-stack development",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Stably AI",
+    "Startup URL": "https://www.stably.ai",
+    "Startup Description": "",
+    "Startup Keyword": "Full-stack development",
+    "Founders": [
+      {
+        "Name": "Neil Parker",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/neilwilliamparker/",
+        "Email": "neil@stablyai.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Vellum",
+    "Startup URL": "https://www.vellum.ai/",
+    "Startup Description": "",
+    "Startup Keyword": "Full-stack development",
+    "Founders": [
+      {
+        "Name": "Akash Sharma",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/akash-sharma53/",
+        "Email": "akash@vellum.com"
+      },
+      {
+        "Name": "Sidd Seethepalli",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/siddseethepalli/",
+        "Email": "sidd@vellum.com"
+      },
+      {
+        "Name": "Noa Flaherty",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/noaflaherty/",
+        "Email": "noa@vellum.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "co.dev",
+    "Startup URL": "https://co.dev/?ref=YC",
+    "Startup Description": "",
+    "Startup Keyword": "Full-stack development",
+    "Founders": [
+      {
+        "Name": "Andrew Kim",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/askim89",
+        "Email": "andrew@co.dev.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Onlook",
+    "Startup URL": "https://onlook.com/",
+    "Startup Description": "",
+    "Startup Keyword": "Full-stack development",
+    "Founders": [
+      {
+        "Name": "LinkedIn",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/danielrfarrell/",
+        "Email": "linkedin@onlook.com"
+      },
+      {
+        "Name": "LinkedIn",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/kiet-ho/",
+        "Email": "linkedin@onlook.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Chorus Sleep",
+    "Startup URL": "https://www.chorussleep.com/",
+    "Startup Description": "",
+    "Startup Keyword": "Mobile app",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Per Diem",
+    "Startup URL": "https://tryperdiem.com",
+    "Startup Description": "",
+    "Startup Keyword": "Mobile app",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Instabug",
+    "Startup URL": "https://instabug.com",
+    "Startup Description": "",
+    "Startup Keyword": "Mobile app",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Mojo",
+    "Startup URL": "https://mojo-app.com",
+    "Startup Description": "",
+    "Startup Keyword": "Mobile app",
+    "Founders": [
+      {
+        "Name": "Francescu Santoni",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/fsantoni/",
+        "Email": "francescu@mojo.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Milky Way AI",
+    "Startup URL": "https://milkyway.ai/",
+    "Startup Description": "",
+    "Startup Keyword": "Mobile app",
+    "Founders": [
+      {
+        "Name": "Eunice Wong",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/eunicewes",
+        "Email": "eunice@milkywayai.com"
+      },
+      {
+        "Name": "Sagar Setu",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/sagarsetu/",
+        "Email": "sagar@milkywayai.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "PlanGrid",
+    "Startup URL": "http://plangrid.com",
+    "Startup Description": "",
+    "Startup Keyword": "Mobile app",
+    "Founders": [
+      {
+        "Name": "Ralph Gootee",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/ralphleon/",
+        "Email": "ralph@plangrid.com"
+      },
+      {
+        "Name": "Ryan Sutton-Gee",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/rsuttong",
+        "Email": "ryan@plangrid.com"
+      },
+      {
+        "Name": "Tracy Young",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/tracy-young-0a17441",
+        "Email": "tracy@plangrid.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Pixate",
+    "Startup URL": "http://pixate.com",
+    "Startup Description": "",
+    "Startup Keyword": "Mobile app",
+    "Founders": [
+      {
+        "Name": "Pixate",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/pcolton/",
+        "Email": "pixate@pixate.com"
+      },
+      {
+        "Name": "Kevin Lindsey",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/kevinlindsey/",
+        "Email": "kevin@pixate.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "QualGent",
+    "Startup URL": "https://qualgent.ai",
+    "Startup Description": "",
+    "Startup Keyword": "Mobile app",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Payflow",
+    "Startup URL": "https://www.payflow.es/",
+    "Startup Description": "",
+    "Startup Keyword": "Mobile app",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Flowly",
+    "Startup URL": "https://www.flowly.world/",
+    "Startup Description": "",
+    "Startup Keyword": "Mobile app",
+    "Founders": [
+      {
+        "Name": "Narae Kim",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/narae-kim-933b7669/",
+        "Email": "narae@flowly.com"
+      },
+      {
+        "Name": "Julien Soros",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/julien-s-7268a9140/",
+        "Email": "julien@flowly.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Testmunk",
+    "Startup URL": "http://testmunk.com",
+    "Startup Description": "",
+    "Startup Keyword": "Mobile app",
+    "Founders": [
+      {
+        "Name": "Martin Poschenrieder",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/martinposchenrieder/",
+        "Email": "martin@testmunk.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Draftbit",
+    "Startup URL": "https://draftbit.com",
+    "Startup Description": "",
+    "Startup Keyword": "Mobile app",
+    "Founders": []
+  },
+  {
+    "Startup Name": "a0.dev",
+    "Startup URL": "https://a0.dev",
+    "Startup Description": "",
+    "Startup Keyword": "Mobile app",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Emerge Tools",
+    "Startup URL": "https://www.emergetools.com/",
+    "Startup Description": "",
+    "Startup Keyword": "Mobile app",
+    "Founders": []
+  },
+  {
+    "Startup Name": "INKHUNTER",
+    "Startup URL": "http://inkhunter.tattoo/",
+    "Startup Description": "",
+    "Startup Keyword": "Mobile app",
+    "Founders": [
+      {
+        "Name": "Pavlo Razumovskyi",
+        "Role": "Founder",
+        "LinkedIn": "http://ua.linkedin.com/in/PavloRazumovskyi",
+        "Email": "pavlo@inkhunter.com"
+      },
+      {
+        "Name": "Sasha Rohachova",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/rohachova",
+        "Email": "sasha@inkhunter.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Autosana",
+    "Startup URL": "https://autosana.ai",
+    "Startup Description": "",
+    "Startup Keyword": "Mobile app",
+    "Founders": [
+      {
+        "Name": "Jason Steinberg",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/jason-steinberg-6018261b6/",
+        "Email": "jason@autosana.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Bloom",
+    "Startup URL": "https://bloom.diy/",
+    "Startup Description": "",
+    "Startup Keyword": "Mobile app",
+    "Founders": [
+      {
+        "Name": "Sirian",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/sirian-maathuis/",
+        "Email": "sirian@bloom.com"
+      },
+      {
+        "Name": "David",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/david-oort-alonso/",
+        "Email": "david@bloom.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Dioxus Labs",
+    "Startup URL": "https://dioxuslabs.com",
+    "Startup Description": "",
+    "Startup Keyword": "Mobile app",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Runway",
+    "Startup URL": "https://runway.team",
+    "Startup Description": "",
+    "Startup Keyword": "Mobile app",
+    "Founders": [
+      {
+        "Name": "David Filion",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/david-filion-bb050249",
+        "Email": "david@runway.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "TrueNorth",
+    "Startup URL": "http://www.truenorthfleet.com",
+    "Startup Description": "",
+    "Startup Keyword": "MERN stack",
+    "Founders": [
+      {
+        "Name": "Jin Stedge",
+        "Role": "Founder",
+        "LinkedIn": "http://linkedin.com/in/jinstedge",
+        "Email": "jin@truenorth.com"
+      },
+      {
+        "Name": "Sanjaya Wijeratne",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/skwijeratne/",
+        "Email": "sanjaya@truenorth.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Pearl",
+    "Startup URL": "https://getpearlcoffee.com/",
+    "Startup Description": "",
+    "Startup Keyword": "MERN stack",
+    "Founders": [
+      {
+        "Name": "Greg Kress",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/gregorykress",
+        "Email": "greg@pearl.com"
+      },
+      {
+        "Name": "Scott Steber",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/scottsteber",
+        "Email": "scott@pearl.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Capacitive",
+    "Startup URL": "https://capacitive.ai/",
+    "Startup Description": "",
+    "Startup Keyword": "MERN stack",
+    "Founders": [
+      {
+        "Name": "Kevin Treehan",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/kevintreehan/",
+        "Email": "kevin@capacitive.com"
+      },
+      {
+        "Name": "Rohan Radhakeesoon",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/rohan-radhakeesoon",
+        "Email": "rohan@capacitive.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "ACLU",
+    "Startup URL": "https://www.aclu.org/",
+    "Startup Description": "",
+    "Startup Keyword": "MERN stack",
+    "Founders": [
+      {
+        "Name": "Anthony Romero",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/anthony-romero-7a28454",
+        "Email": "anthony@aclu.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "borong",
+    "Startup URL": "https://www.borong.com/",
+    "Startup Description": "",
+    "Startup Keyword": "MERN stack",
+    "Founders": [
+      {
+        "Name": "Lennise Ng",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/lenniseng",
+        "Email": "lennise@borong.com"
+      },
+      {
+        "Name": "Haslinda Rasip",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/lindarasip/",
+        "Email": "haslinda@borong.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Quadrant Eye",
+    "Startup URL": "https://quadranteye.com",
+    "Startup Description": "",
+    "Startup Keyword": "MERN stack",
+    "Founders": [
+      {
+        "Name": "Quinn Wang MD",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/quinn-wang-md/",
+        "Email": "quinn@quadranteye.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Depict",
+    "Startup URL": "https://depict.ai/",
+    "Startup Description": "",
+    "Startup Keyword": "MERN stack",
+    "Founders": [
+      {
+        "Name": "Oliver Edholm",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/oliver-edholm-293950118/",
+        "Email": "oliver@depict.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Autosana",
+    "Startup URL": "https://autosana.ai",
+    "Startup Description": "",
+    "Startup Keyword": "React Native",
+    "Founders": [
+      {
+        "Name": "Jason Steinberg",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/jason-steinberg-6018261b6/",
+        "Email": "jason@autosana.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "a0.dev",
+    "Startup URL": "https://a0.dev",
+    "Startup Description": "",
+    "Startup Keyword": "React Native",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Expo",
+    "Startup URL": "https://expo.dev",
+    "Startup Description": "",
+    "Startup Keyword": "React Native",
+    "Founders": [
+      {
+        "Name": "Charlie Cheever",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/ccheever",
+        "Email": "charlie@expo.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Clear",
+    "Startup URL": "https://getclearapp.com/",
+    "Startup Description": "",
+    "Startup Keyword": "React Native",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Popl",
+    "Startup URL": "https://popl.co/",
+    "Startup Description": "",
+    "Startup Keyword": "React Native",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Superpowered AI",
+    "Startup URL": "https://superpowered.ai",
+    "Startup Description": "",
+    "Startup Keyword": "React Native",
+    "Founders": [
+      {
+        "Name": "Justin Clark",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/justin-m-clark/",
+        "Email": "justin@superpoweredai.com"
+      },
+      {
+        "Name": "Dillon Martin",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/dillon-t-martin-8809b6126",
+        "Email": "dillon@superpoweredai.com"
+      },
+      {
+        "Name": "Nicholas McCormick",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/nick-mccormick-6813828b/",
+        "Email": "nicholas@superpoweredai.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Turntable",
+    "Startup URL": "https://www.turntable.so",
+    "Startup Description": "",
+    "Startup Keyword": "React Native",
+    "Founders": [
+      {
+        "Name": "Justin Leder",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/justin-leder/",
+        "Email": "justin@turntable.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Heroic Story",
+    "Startup URL": "https://heroicstory.com",
+    "Startup Description": "",
+    "Startup Keyword": "React Native",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Virool",
+    "Startup URL": "http://virool.com",
+    "Startup Description": "",
+    "Startup Keyword": "React Native",
+    "Founders": [
+      {
+        "Name": "Alexander Debelov",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/techentrepreneur1/",
+        "Email": "alexander@virool.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Palmier",
+    "Startup URL": "https://www.palmier.io",
+    "Startup Description": "",
+    "Startup Keyword": "React Native",
+    "Founders": [
+      {
+        "Name": "Marcos Rico Peng",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/marcosrico",
+        "Email": "marcos@palmier.com"
+      },
+      {
+        "Name": "Harrison Tin",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/harrison-tin-a260321b3/",
+        "Email": "harrison@palmier.com"
+      },
+      {
+        "Name": "Marcos",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/marcosrico",
+        "Email": "marcos@palmier.com"
+      },
+      {
+        "Name": "Harrison",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/harrison-tin-a260321b3/",
+        "Email": "harrison@palmier.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "crmCopilot",
+    "Startup URL": "https://www.crmcopilot.co?utm_source=yc",
+    "Startup Description": "",
+    "Startup Keyword": "React Native",
+    "Founders": [
+      {
+        "Name": "Garrett (left)",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/graves-dev",
+        "Email": "garrett@crmcopilot.com"
+      },
+      {
+        "Name": "Grant (right)",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/grantmargerum",
+        "Email": "grant@crmcopilot.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Motionlead",
+    "Startup URL": "http://motionlead.com",
+    "Startup Description": "",
+    "Startup Keyword": "React Native",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Purple Plate",
+    "Startup URL": "http://www.purpleplate.co",
+    "Startup Description": "",
+    "Startup Keyword": "React Native",
+    "Founders": [
+      {
+        "Name": "Chen-Chen Huo",
+        "Role": "Founder",
+        "LinkedIn": "http://www.linkedin.com/in/chenchenhuo",
+        "Email": "chen-chen@purpleplate.com"
+      },
+      {
+        "Name": "Antony Bello",
+        "Role": "Founder",
+        "LinkedIn": "linkedin.com/in/antonybello",
+        "Email": "antony@purpleplate.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "kapa.ai",
+    "Startup URL": "https://www.kapa.ai/",
+    "Startup Description": "",
+    "Startup Keyword": "Next.js",
+    "Founders": [
+      {
+        "Name": "Finn Bauer",
+        "Role": "Founder",
+        "LinkedIn": "https://de.linkedin.com/in/finn-bauer-533bb0130",
+        "Email": "finn@kapa.ai.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Nextstore",
+    "Startup URL": "https://nextstore.com",
+    "Startup Description": "",
+    "Startup Keyword": "Next.js",
+    "Founders": [
+      {
+        "Name": "Victor Ferrand",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/victorferrand/",
+        "Email": "victor@nextstore.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "SEND",
+    "Startup URL": "https://www.send.ng",
+    "Startup Description": "",
+    "Startup Keyword": "Next.js",
+    "Founders": [
+      {
+        "Name": "Kingsley Oti",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/kingsley-oti-64464b10b",
+        "Email": "kingsley@send.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Flutter",
+    "Startup URL": "http://flutterapp.com",
+    "Startup Description": "",
+    "Startup Keyword": "Flutter",
+    "Founders": [
+      {
+        "Name": "Navneet Dalal",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/ndalal",
+        "Email": "navneet@flutter.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "FlutterFlow",
+    "Startup URL": "https://flutterflow.io",
+    "Startup Description": "",
+    "Startup Keyword": "Flutter",
+    "Founders": [
+      {
+        "Name": "Alex Greaves",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/alex-greaves-6880b19b/",
+        "Email": "alex@flutterflow.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Flutterwave",
+    "Startup URL": "https://flutterwave.com",
+    "Startup Description": "",
+    "Startup Keyword": "Flutter",
+    "Founders": [
+      {
+        "Name": "Adeleke Adekoya",
+        "Role": "Founder",
+        "LinkedIn": "http://linkedin.com/in/lekekoya",
+        "Email": "adeleke@flutterwave.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Motion",
+    "Startup URL": "https://www.usemotion.com/",
+    "Startup Description": "",
+    "Startup Keyword": "Flutter",
+    "Founders": [
+      {
+        "Name": "Harry Qi",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/harryqi/",
+        "Email": "harry@motion.com"
+      },
+      {
+        "Name": "Ethan Yu",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/ethanyu94/",
+        "Email": "ethan@motion.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Celest",
+    "Startup URL": "https://celest.dev",
+    "Startup Description": "",
+    "Startup Keyword": "Flutter",
+    "Founders": [
+      {
+        "Name": "Dillon Nys",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/dillon-nys",
+        "Email": "dillon@celest.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Autosana",
+    "Startup URL": "https://autosana.ai",
+    "Startup Description": "",
+    "Startup Keyword": "Flutter",
+    "Founders": [
+      {
+        "Name": "Jason Steinberg",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/jason-steinberg-6018261b6/",
+        "Email": "jason@autosana.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "WaystoCap",
+    "Startup URL": "https://waystocap.com",
+    "Startup Description": "",
+    "Startup Keyword": "Flutter",
+    "Founders": [
+      {
+        "Name": "Niama El Bassunie",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/niama-el-bassunie-cfa",
+        "Email": "niama@waystocap.com"
+      },
+      {
+        "Name": "Aziz Jaouhari",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/medaziz/",
+        "Email": "aziz@waystocap.com"
+      },
+      {
+        "Name": "Anis Abdeddine",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/anis-abdeddine-a9ab74113",
+        "Email": "anis@waystocap.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Crimson",
+    "Startup URL": "https://crimson.law",
+    "Startup Description": "",
+    "Startup Keyword": "Flutter",
+    "Founders": [
+      {
+        "Name": "Mark Feldner",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/mark-feldner/",
+        "Email": "mark@crimson.com"
+      },
+      {
+        "Name": "Amine Amor",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/amine-amor-4a7a42135/",
+        "Email": "amine@crimson.com"
+      },
+      {
+        "Name": "David Strömbäck",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/davidstromback/",
+        "Email": "david@crimson.com"
+      },
+      {
+        "Name": "Amine",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/amine-amor-4a7a42135/",
+        "Email": "amine@crimson.com"
+      },
+      {
+        "Name": "David",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/davidstromback/",
+        "Email": "david@crimson.com"
+      },
+      {
+        "Name": "Mark",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/mark-feldner/",
+        "Email": "mark@crimson.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "LemFi",
+    "Startup URL": "https://lemfi.com",
+    "Startup Description": "",
+    "Startup Keyword": "Flutter",
+    "Founders": [
+      {
+        "Name": "Rian Cochran",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/rian-p-cochran-a3a9404/",
+        "Email": "rian@lemfi.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "PeerDB",
+    "Startup URL": "https://peerdb.io/",
+    "Startup Description": "",
+    "Startup Keyword": "Flutter",
+    "Founders": [
+      {
+        "Name": "Kaushik Iska",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/kaushikiska",
+        "Email": "kaushik@peerdb.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "BiteSight",
+    "Startup URL": "http://bitesight.com",
+    "Startup Description": "",
+    "Startup Keyword": "Flutter",
+    "Founders": [
+      {
+        "Name": "Zac",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/zacschulwolf/",
+        "Email": "zac@bitesight.com"
+      },
+      {
+        "Name": "Lucious",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/luciousiv/",
+        "Email": "lucious@bitesight.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Andi",
+    "Startup URL": "https://andisearch.com",
+    "Startup Description": "",
+    "Startup Keyword": "Flutter",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Fridge",
+    "Startup URL": "http://frid.ge",
+    "Startup Description": "",
+    "Startup Keyword": "Flutter",
+    "Founders": [
+      {
+        "Name": "Austin Chang",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/austinnchang",
+        "Email": "austin@fridge.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Pursuit",
+    "Startup URL": "http://www.revlo.co",
+    "Startup Description": "",
+    "Startup Keyword": "Flutter",
+    "Founders": [
+      {
+        "Name": "Adam Hueniken",
+        "Role": "Founder",
+        "LinkedIn": "https://ca.linkedin.com/in/adam-hueniken-34643542",
+        "Email": "adam@pursuit.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Close",
+    "Startup URL": "https://close.com",
+    "Startup Description": "",
+    "Startup Keyword": "Automation tools",
+    "Founders": [
+      {
+        "Name": "Steli Efti",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/steliefti",
+        "Email": "steli@close.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Guesty",
+    "Startup URL": "http://www.guesty.com",
+    "Startup Description": "",
+    "Startup Keyword": "Automation tools",
+    "Founders": [
+      {
+        "Name": "Amiad Soto",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/amiadsoto",
+        "Email": "amiad@guesty.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Axoni",
+    "Startup URL": "https://axoni.com",
+    "Startup Description": "",
+    "Startup Keyword": "Automation tools",
+    "Founders": [
+      {
+        "Name": "Jeffrey Schvey",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/jeffschvey/",
+        "Email": "jeffrey@axoni.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Chorrie",
+    "Startup URL": "https://chorrie.com",
+    "Startup Description": "",
+    "Startup Keyword": "Automation tools",
+    "Founders": [
+      {
+        "Name": "Christopher Schlaepfer",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/cschlaep/",
+        "Email": "christopher@chorrie.com"
+      },
+      {
+        "Name": "Jorrie Brettin",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/jorrie-brettin-349a6383/",
+        "Email": "jorrie@chorrie.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Fiber AI",
+    "Startup URL": "https://fiber.ai/",
+    "Startup Description": "",
+    "Startup Keyword": "Automation tools",
+    "Founders": [
+      {
+        "Name": "Neel Mehta",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/neel-a-mehta",
+        "Email": "neel@fiberai.com"
+      },
+      {
+        "Name": "Adi Agashe",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/adityaagashe/",
+        "Email": "adi@fiberai.com"
+      },
+      {
+        "Name": "Neel Mehta",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/neel-a-mehta/",
+        "Email": "neel@fiberai.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Concord Materials",
+    "Startup URL": "https://concordmaterials.com",
+    "Startup Description": "",
+    "Startup Keyword": "Automation tools",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Rulebricks",
+    "Startup URL": "https://rulebricks.com/",
+    "Startup Description": "",
+    "Startup Keyword": "Automation tools",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Resquared",
+    "Startup URL": "http://re2.ai",
+    "Startup Description": "",
+    "Startup Keyword": "Automation tools",
+    "Founders": [
+      {
+        "Name": "Griffin Morris",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/jgriffinmorris",
+        "Email": "griffin@resquared.com"
+      },
+      {
+        "Name": "Tyler Carlson",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/tylerwcarlson/",
+        "Email": "tyler@resquared.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Recurrency",
+    "Startup URL": "http://www.recurrency.com",
+    "Startup Description": "",
+    "Startup Keyword": "Automation tools",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Rimba",
+    "Startup URL": "https://rimba.ai",
+    "Startup Description": "",
+    "Startup Keyword": "Automation tools",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Oneleet",
+    "Startup URL": "https://oneleet.com",
+    "Startup Description": "",
+    "Startup Keyword": "Automation tools",
+    "Founders": [
+      {
+        "Name": "Ora Onel",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/ora-touitou/",
+        "Email": "ora@oneleet.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Ashby",
+    "Startup URL": "https://www.ashbyhq.com",
+    "Startup Description": "",
+    "Startup Keyword": "Automation tools",
+    "Founders": [
+      {
+        "Name": "Benjamin Encz",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/benjaminencz",
+        "Email": "benjamin@ashby.com"
+      },
+      {
+        "Name": "Abhik Pramanik",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/abhikpramanik/",
+        "Email": "abhik@ashby.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Segment",
+    "Startup URL": "http://segment.com",
+    "Startup Description": "",
+    "Startup Keyword": "Automation tools",
+    "Founders": [
+      {
+        "Name": "Ilya Volodarsky",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/ilyavolodarsky/",
+        "Email": "ilya@segment.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Kodex",
+    "Startup URL": "https://www.kodexglobal.com",
+    "Startup Description": "",
+    "Startup Keyword": "Automation tools",
+    "Founders": [
+      {
+        "Name": "Matt Donahue",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/matt-donahue-9bb60188/",
+        "Email": "matt@kodex.com"
+      },
+      {
+        "Name": "Danny Mendoza",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/jdmendoza1/",
+        "Email": "danny@kodex.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Axiom.ai",
+    "Startup URL": "https://axiom.ai",
+    "Startup Description": "",
+    "Startup Keyword": "Automation tools",
+    "Founders": [
+      {
+        "Name": "Yaseer Sheriff",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/yaseer-sheriff-14752b18/",
+        "Email": "yaseer@axiom.ai.com"
+      },
+      {
+        "Name": "Simon Williams",
+        "Role": "Founder",
+        "LinkedIn": "https://uk.linkedin.com/in/simon-williams-20653618",
+        "Email": "simon@axiom.ai.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "OneGrep",
+    "Startup URL": "https://www.onegrep.dev",
+    "Startup Description": "",
+    "Startup Keyword": "Automation tools",
+    "Founders": [
+      {
+        "Name": "Brian Cripe",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/briancripe",
+        "Email": "brian@onegrep.com"
+      },
+      {
+        "Name": "Achintya",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/achintya-ashok/",
+        "Email": "achintya@onegrep.com"
+      },
+      {
+        "Name": "Brian.",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/briancripe/",
+        "Email": "brian.@onegrep.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Whalesync",
+    "Startup URL": "https://www.whalesync.com",
+    "Startup Description": "",
+    "Startup Keyword": "Automation tools",
+    "Founders": [
+      {
+        "Name": "Matthew Busel",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/matthew-busel/",
+        "Email": "matthew@whalesync.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Dev Tools AI",
+    "Startup URL": "https://dev-tools.ai",
+    "Startup Description": "",
+    "Startup Keyword": "Automation tools",
+    "Founders": [
+      {
+        "Name": "Chris Navrides",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/chris-navrides",
+        "Email": "chris@devtoolsai.com"
+      },
+      {
+        "Name": "Etienne DEGUINE",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/etiennedeguine",
+        "Email": "etienne@devtoolsai.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Cyberdesk",
+    "Startup URL": "https://www.cyberdesk.io",
+    "Startup Description": "",
+    "Startup Keyword": "Automation tools",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Activepieces",
+    "Startup URL": "https://www.activepieces.com",
+    "Startup Description": "",
+    "Startup Keyword": "Business automation",
+    "Founders": [
+      {
+        "Name": "Ashraf Samhouri",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/ashrafsam",
+        "Email": "ashraf@activepieces.com"
+      },
+      {
+        "Name": "Mohammad",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/mohammad-abuaboud/",
+        "Email": "mohammad@activepieces.com"
+      },
+      {
+        "Name": "Ashraf",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/ashrafsam",
+        "Email": "ashraf@activepieces.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Trébol",
+    "Startup URL": "https://gotrebol.com/",
+    "Startup Description": "",
+    "Startup Keyword": "Business automation",
+    "Founders": [
+      {
+        "Name": "Luis Sebastian Buitrago León",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/lsbuitrago/",
+        "Email": "luis@trébol.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Friday",
+    "Startup URL": "https://www.friday.so",
+    "Startup Description": "",
+    "Startup Keyword": "Business automation",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Redouble AI",
+    "Startup URL": "https://redouble.ai/",
+    "Startup Description": "",
+    "Startup Keyword": "Business automation",
+    "Founders": [
+      {
+        "Name": "Martin Bittner",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/martinimmanuelbittner/",
+        "Email": "martin@redoubleai.com"
+      },
+      {
+        "Name": "Andrey Santrosyan",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/santrosyan",
+        "Email": "andrey@redoubleai.com"
+      },
+      {
+        "Name": "Martin",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/martinimmanuelbittner/",
+        "Email": "martin@redoubleai.com"
+      },
+      {
+        "Name": "Haotian",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/haotian-li-ba327850",
+        "Email": "haotian@redoubleai.com"
+      },
+      {
+        "Name": "Andrey",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/santrosyan",
+        "Email": "andrey@redoubleai.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "MarketForce",
+    "Startup URL": "https://marketforce.io",
+    "Startup Description": "",
+    "Startup Keyword": "Business automation",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Mayan",
+    "Startup URL": "https://www.mayan.co",
+    "Startup Description": "",
+    "Startup Keyword": "Business automation",
+    "Founders": [
+      {
+        "Name": "Javier Garcia",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/jagarcia29",
+        "Email": "javier@mayan.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Mito",
+    "Startup URL": "http://trymito.io",
+    "Startup Description": "",
+    "Startup Keyword": "Business automation",
+    "Founders": [
+      {
+        "Name": "Jake Diamond-Reivich",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/jacob-diamond-reivich-03ab62145/",
+        "Email": "jake@mito.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Scispot",
+    "Startup URL": "https://scispot.io",
+    "Startup Description": "",
+    "Startup Keyword": "Business automation",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Noloco",
+    "Startup URL": "https://noloco.io",
+    "Startup Description": "",
+    "Startup Keyword": "Business automation",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Whalesync",
+    "Startup URL": "https://www.whalesync.com",
+    "Startup Description": "",
+    "Startup Keyword": "Business automation",
+    "Founders": [
+      {
+        "Name": "Matthew Busel",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/matthew-busel/",
+        "Email": "matthew@whalesync.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Fiber AI",
+    "Startup URL": "https://fiber.ai/",
+    "Startup Description": "",
+    "Startup Keyword": "Business automation",
+    "Founders": [
+      {
+        "Name": "Neel Mehta",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/neel-a-mehta",
+        "Email": "neel@fiberai.com"
+      },
+      {
+        "Name": "Adi Agashe",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/adityaagashe/",
+        "Email": "adi@fiberai.com"
+      },
+      {
+        "Name": "Neel Mehta",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/neel-a-mehta/",
+        "Email": "neel@fiberai.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Vooma",
+    "Startup URL": "https://www.vooma.ai",
+    "Startup Description": "",
+    "Startup Keyword": "Business automation",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Abbot",
+    "Startup URL": "https://ab.bot",
+    "Startup Description": "",
+    "Startup Keyword": "Business automation",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Stayflexi",
+    "Startup URL": "https://business.stayflexi.com/",
+    "Startup Description": "",
+    "Startup Keyword": "Business automation",
+    "Founders": [
+      {
+        "Name": "Venkatesh Sakamuri",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/venkatsakamuri/",
+        "Email": "venkatesh@stayflexi.com"
+      },
+      {
+        "Name": "Preetam Mohan Shetty",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/preetam-shetty-890202178/",
+        "Email": "preetam@stayflexi.com"
+      },
+      {
+        "Name": "Krishna Sasank Talasila",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/sasank-stayflexi/",
+        "Email": "krishna@stayflexi.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Shipamax",
+    "Startup URL": "https://shipamax.com",
+    "Startup Description": "",
+    "Startup Keyword": "Business automation",
+    "Founders": [
+      {
+        "Name": "Fabian Blaicher",
+        "Role": "Founder",
+        "LinkedIn": "https://uk.linkedin.com/in/fabian-blaicher-86936120",
+        "Email": "fabian@shipamax.com"
+      },
+      {
+        "Name": "Jenna Brown",
+        "Role": "Founder",
+        "LinkedIn": "https://uk.linkedin.com/in/jenna-brown-2539b716",
+        "Email": "jenna@shipamax.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "DryMerge",
+    "Startup URL": "https://www.drymerge.com",
+    "Startup Description": "",
+    "Startup Keyword": "Business automation",
+    "Founders": [
+      {
+        "Name": "Samuel Brashears",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/samuel-brashears000",
+        "Email": "samuel@drymerge.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Lumenary",
+    "Startup URL": "https://try.solar",
+    "Startup Description": "",
+    "Startup Keyword": "Business automation",
+    "Founders": [
+      {
+        "Name": "Ziray Hao",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/ziray-hao/",
+        "Email": "ziray@lumenary.com"
+      },
+      {
+        "Name": "John McCambridge",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/johnmccambr",
+        "Email": "john@lumenary.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Latent Space",
+    "Startup URL": "https://latentspace.sh/",
+    "Startup Description": "",
+    "Startup Keyword": "Business automation",
+    "Founders": [
+      {
+        "Name": "Albert Sahala",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/albertsahala/",
+        "Email": "albert@latentspace.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Integration Labs",
+    "Startup URL": "https://www.integrationlabs.co",
+    "Startup Description": "",
+    "Startup Keyword": "Business automation",
+    "Founders": [
+      {
+        "Name": "Ishwar Gogineni",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/ishwar-gogineni/",
+        "Email": "ishwar@integrationlabs.com"
+      },
+      {
+        "Name": "Sidharth Rao",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/siddharth-rao-33ba80146/",
+        "Email": "sidharth@integrationlabs.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Perspectives Health",
+    "Startup URL": "https://perspectiveshealth.ai/",
+    "Startup Description": "",
+    "Startup Keyword": "Workflow automation",
+    "Founders": [
+      {
+        "Name": "Kyle Hyun Woo Jung",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/kyle-hyun-woo-jung-a06814180/",
+        "Email": "kyle@perspectiveshealth.com"
+      },
+      {
+        "Name": "Jesse Tabak",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/jessetabak/",
+        "Email": "jesse@perspectiveshealth.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Dash",
+    "Startup URL": "https://www.usedash.ai/",
+    "Startup Description": "",
+    "Startup Keyword": "Workflow automation",
+    "Founders": [
+      {
+        "Name": "Dhruv Roongta",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/dhruv-roongta-421a7b214/",
+        "Email": "dhruv@dash.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Origami",
+    "Startup URL": "https://www.origamiagents.com",
+    "Startup Description": "",
+    "Startup Keyword": "Workflow automation",
+    "Founders": [
+      {
+        "Name": "Kenson Chung",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/kenson-chung-837849230/",
+        "Email": "kenson@origami.com"
+      },
+      {
+        "Name": "Finn",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/~finn/",
+        "Email": "finn@origami.com"
+      },
+      {
+        "Name": "Kenson",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/~kenson/",
+        "Email": "kenson@origami.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Tracecat",
+    "Startup URL": "https://tracecat.com",
+    "Startup Description": "",
+    "Startup Keyword": "Workflow automation",
+    "Founders": [
+      {
+        "Name": "Chris Lo",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/chrislohy",
+        "Email": "chris@tracecat.com"
+      },
+      {
+        "Name": "Daryl Lim",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/daryllimyt",
+        "Email": "daryl@tracecat.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Egress Health",
+    "Startup URL": "https://tryegress.com",
+    "Startup Description": "",
+    "Startup Keyword": "Workflow automation",
+    "Founders": [
+      {
+        "Name": "Alex Pedersen",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/alex-pedersen-30340915a",
+        "Email": "alex@egresshealth.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Zynq",
+    "Startup URL": "https://zynq.io",
+    "Startup Description": "",
+    "Startup Keyword": "Workflow automation",
+    "Founders": [
+      {
+        "Name": "David Cottrell",
+        "Role": "Founder",
+        "LinkedIn": "http://www.linkedin.com/in/david-cottrell-01765a67",
+        "Email": "david@zynq.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Medisas",
+    "Startup URL": "http://medisas.com",
+    "Startup Description": "",
+    "Startup Keyword": "Workflow automation",
+    "Founders": [
+      {
+        "Name": "Gautam Sivakumar",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/gautamsivakumar/",
+        "Email": "gautam@medisas.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "OSIMple",
+    "Startup URL": "http://osimple.co",
+    "Startup Description": "",
+    "Startup Keyword": "Workflow automation",
+    "Founders": [
+      {
+        "Name": "Amanda Chan",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/amanda-chan-6427a8120/",
+        "Email": "amanda@osimple.com"
+      },
+      {
+        "Name": "Mike Miller",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/mike-miller-09262979/",
+        "Email": "mike@osimple.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Syncro",
+    "Startup URL": "https://runsyncro.com/",
+    "Startup Description": "",
+    "Startup Keyword": "Workflow automation",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Lumari",
+    "Startup URL": "https://www.lumari.io/",
+    "Startup Description": "",
+    "Startup Keyword": "Workflow automation",
+    "Founders": [
+      {
+        "Name": "Eshani Mehta",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/eshanimehta/",
+        "Email": "eshani@lumari.com"
+      },
+      {
+        "Name": "Sam Lamba",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/samarthlamba",
+        "Email": "sam@lumari.com"
+      },
+      {
+        "Name": "Sam",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/samarthlamba/",
+        "Email": "sam@lumari.com"
+      },
+      {
+        "Name": "Eshani",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/eshanimehta/",
+        "Email": "eshani@lumari.com"
+      },
+      {
+        "Name": "Sam Lamba",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/samarthlamba/",
+        "Email": "sam@lumari.com"
+      },
+      {
+        "Name": "Eshani Mehta",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/eshanimehta/",
+        "Email": "eshani@lumari.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Platus",
+    "Startup URL": "https://www.platus.com",
+    "Startup Description": "",
+    "Startup Keyword": "Workflow automation",
+    "Founders": [
+      {
+        "Name": "Alexander Sporenberg",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/alexsporenberg",
+        "Email": "alexander@platus.com"
+      },
+      {
+        "Name": "Alex",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/alexandersporenberg/",
+        "Email": "alex@platus.com"
+      },
+      {
+        "Name": "Felix",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/felixgerlach/",
+        "Email": "felix@platus.com"
+      },
+      {
+        "Name": "Alex",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/alexandersporenberg/",
+        "Email": "alex@platus.com"
+      },
+      {
+        "Name": "Felix",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/felixgerlach/",
+        "Email": "felix@platus.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "LedgerUp",
+    "Startup URL": "https://ledgerup.ai/",
+    "Startup Description": "",
+    "Startup Keyword": "Workflow automation",
+    "Founders": [
+      {
+        "Name": "Joseph",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/joseph-johnson-/",
+        "Email": "joseph@ledgerup.com"
+      },
+      {
+        "Name": "Bailey",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/bailey-spell-b487ab149/",
+        "Email": "bailey@ledgerup.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Affinity",
+    "Startup URL": "https://itsaffinity.com",
+    "Startup Description": "",
+    "Startup Keyword": "Workflow automation",
+    "Founders": [
+      {
+        "Name": "Faraz Rana",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/faraz-rana-502874a",
+        "Email": "faraz@affinity.com"
+      },
+      {
+        "Name": "Peter Greczner",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/peter-greczner-0067086",
+        "Email": "peter@affinity.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Latent Space",
+    "Startup URL": "https://latentspace.sh/",
+    "Startup Description": "",
+    "Startup Keyword": "Workflow automation",
+    "Founders": [
+      {
+        "Name": "Albert Sahala",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/albertsahala/",
+        "Email": "albert@latentspace.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "CoreCare",
+    "Startup URL": "https://corecare.ai",
+    "Startup Description": "",
+    "Startup Keyword": "Workflow automation",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Snappr",
+    "Startup URL": "https://www.snappr.com",
+    "Startup Description": "",
+    "Startup Keyword": "Workflow automation",
+    "Founders": [
+      {
+        "Name": "Matt Schiller",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/mdschiller",
+        "Email": "matt@snappr.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Hatchways",
+    "Startup URL": "http://www.hatchways.io",
+    "Startup Description": "",
+    "Startup Keyword": "Workflow automation",
+    "Founders": [
+      {
+        "Name": "Shums Kassam",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/shumskassam/",
+        "Email": "shums@hatchways.com"
+      },
+      {
+        "Name": "Jaclyn Ling",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/jaclynling/",
+        "Email": "jaclyn@hatchways.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Integration Labs",
+    "Startup URL": "https://www.integrationlabs.co",
+    "Startup Description": "",
+    "Startup Keyword": "Workflow automation",
+    "Founders": [
+      {
+        "Name": "Ishwar Gogineni",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/ishwar-gogineni/",
+        "Email": "ishwar@integrationlabs.com"
+      },
+      {
+        "Name": "Sidharth Rao",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/siddharth-rao-33ba80146/",
+        "Email": "sidharth@integrationlabs.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Platypus",
+    "Startup URL": "https://www.getplatypus.com",
+    "Startup Description": "",
+    "Startup Keyword": "Workflow automation",
+    "Founders": [
+      {
+        "Name": "Deepanshu Madan",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/deepanshumadan",
+        "Email": "deepanshu@platypus.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Nozomio",
+    "Startup URL": "https://www.nozomio.com/",
+    "Startup Description": "",
+    "Startup Keyword": "Pre-seed",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Artificial Societies",
+    "Startup URL": "https://societies.io",
+    "Startup Description": "",
+    "Startup Keyword": "Pre-seed",
+    "Founders": [
+      {
+        "Name": "James He",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/james-k-he/",
+        "Email": "james@artificialsocieties.com"
+      },
+      {
+        "Name": "Patrick Sharpe",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/sharpe-patrick/",
+        "Email": "patrick@artificialsocieties.com"
+      },
+      {
+        "Name": "James",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/james-k-he/",
+        "Email": "james@artificialsocieties.com"
+      },
+      {
+        "Name": "Patrick",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/sharpe-patrick/",
+        "Email": "patrick@artificialsocieties.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Argon AI, Inc.",
+    "Startup URL": "https://www.argon-ai.com/",
+    "Startup Description": "",
+    "Startup Keyword": "Pre-seed",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Bluedot",
+    "Startup URL": "https://thebluedot.co/",
+    "Startup Description": "",
+    "Startup Keyword": "Pre-seed",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Liv Labs",
+    "Startup URL": "http://www.livlabsfitness.com",
+    "Startup Description": "",
+    "Startup Keyword": "Pre-seed",
+    "Founders": [
+      {
+        "Name": "Carly Price",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/pricecarly/",
+        "Email": "carly@livlabs.com"
+      },
+      {
+        "Name": "Carly Price",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/pricecarly/",
+        "Email": "carly@livlabs.com"
+      },
+      {
+        "Name": "Melody Roberts",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/melodyannroberts/",
+        "Email": "melody@livlabs.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Hypermile",
+    "Startup URL": "https://hypermile.ai",
+    "Startup Description": "",
+    "Startup Keyword": "Pre-seed",
+    "Founders": [
+      {
+        "Name": "James Hennessey",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/james-hennessey-2357391a/",
+        "Email": "james@hypermile.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "WorkDone",
+    "Startup URL": "https://www.wrkdn.com",
+    "Startup Description": "",
+    "Startup Keyword": "Pre-seed",
+    "Founders": [
+      {
+        "Name": "Dmitry Karpov",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/dmitrykarpov",
+        "Email": "dmitry@workdone.com"
+      },
+      {
+        "Name": "Alex Odin",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/odinalex/",
+        "Email": "alex@workdone.com"
+      },
+      {
+        "Name": "Dmitry",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/dmitrykarpov/",
+        "Email": "dmitry@workdone.com"
+      },
+      {
+        "Name": "Sergey",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/yudovskiy/",
+        "Email": "sergey@workdone.com"
+      },
+      {
+        "Name": "Alex",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/odinalex/",
+        "Email": "alex@workdone.com"
+      },
+      {
+        "Name": "Joel N.H. Stern, PhD",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/joel-n-h-stern-07a4342/",
+        "Email": "joel@workdone.com"
+      },
+      {
+        "Name": "Dmitry",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/dmitrykarpov/",
+        "Email": "dmitry@workdone.com"
+      },
+      {
+        "Name": "Sergey",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/yudovskiy/",
+        "Email": "sergey@workdone.com"
+      },
+      {
+        "Name": "Alex",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/odinalex/",
+        "Email": "alex@workdone.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Dropback",
+    "Startup URL": "https://www.dropback.com",
+    "Startup Description": "",
+    "Startup Keyword": "Pre-seed",
+    "Founders": [
+      {
+        "Name": "Luke",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/lukebogus",
+        "Email": "luke@dropback.com"
+      },
+      {
+        "Name": "Nick",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/nick-siscoe-58a1099b",
+        "Email": "nick@dropback.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Draftaid",
+    "Startup URL": "https://draftaid.io/",
+    "Startup Description": "",
+    "Startup Keyword": "Pre-seed",
+    "Founders": [
+      {
+        "Name": "Mohammed Al-arnawoot",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/mohammed-al-arnawoot/",
+        "Email": "mohammed@draftaid.com"
+      },
+      {
+        "Name": "Abdullah Elqabbany",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/abdullah-elqabbany-8160551a8",
+        "Email": "abdullah@draftaid.com"
+      },
+      {
+        "Name": "Tahsin Rahman",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/muhammed-tahsin-rahman",
+        "Email": "tahsin@draftaid.com"
+      },
+      {
+        "Name": "Mohammed Al-arnawoot",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/mohammed-al-arnawoot/",
+        "Email": "mohammed@draftaid.com"
+      },
+      {
+        "Name": "Abdullah Elqabbany",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/abdullah-elqabbany-8160551a8",
+        "Email": "abdullah@draftaid.com"
+      },
+      {
+        "Name": "Tahsin Rahman",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/muhammed-tahsin-rahman",
+        "Email": "tahsin@draftaid.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Benson",
+    "Startup URL": "https://www.meetbenson.com/",
+    "Startup Description": "",
+    "Startup Keyword": "Pre-seed",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Waypoint",
+    "Startup URL": "https://www.usewaypoint.com",
+    "Startup Description": "",
+    "Startup Keyword": "Pre-seed",
+    "Founders": [
+      {
+        "Name": "Carlos Rodriguez-Rosario",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/carlosrr/",
+        "Email": "carlos@waypoint.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Rescript",
+    "Startup URL": "https://rescript.ai/",
+    "Startup Description": "",
+    "Startup Keyword": "Seed funding",
+    "Founders": [
+      {
+        "Name": "Alexander Pesendorfer",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/alex-pesendorfer",
+        "Email": "alexander@rescript.com"
+      },
+      {
+        "Name": "Nikhil",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/nikhil-ajjarapu/",
+        "Email": "nikhil@rescript.com"
+      },
+      {
+        "Name": "Alex",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/alex-pesendorfer/",
+        "Email": "alex@rescript.com"
+      },
+      {
+        "Name": "Vince",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/vincentjh/",
+        "Email": "vince@rescript.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Female Invest",
+    "Startup URL": "https://www.femaleinvest.com/",
+    "Startup Description": "",
+    "Startup Keyword": "Seed funding",
+    "Founders": [
+      {
+        "Name": "Anna-Sophie Hartvigsen",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/anna-sophie-hartvigsen-46352611a/",
+        "Email": "anna-sophie@femaleinvest.com"
+      },
+      {
+        "Name": "Emma Bitz",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/emmabitz/?originalSubdomain=dk",
+        "Email": "emma@femaleinvest.com"
+      },
+      {
+        "Name": "Camilla Falkenberg",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/camilla-clo%C3%ABtta-falkenberg-69b78895/",
+        "Email": "camilla@femaleinvest.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Xfers",
+    "Startup URL": "http://xfers.com",
+    "Startup Description": "",
+    "Startup Keyword": "Seed funding",
+    "Founders": [
+      {
+        "Name": "Victor Liew Jia Hao",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/victorliewjiahao/",
+        "Email": "victor@xfers.com"
+      },
+      {
+        "Name": "Tianwei Liu",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/tianweiliu",
+        "Email": "tianwei@xfers.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "LendEDU",
+    "Startup URL": "https://lendedu.com",
+    "Startup Description": "",
+    "Startup Keyword": "Seed funding",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Trigger",
+    "Startup URL": "http://trigger.io",
+    "Startup Description": "",
+    "Startup Keyword": "Seed funding",
+    "Founders": [
+      {
+        "Name": "Patrick Buckley",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/patrickreganbuckley",
+        "Email": "patrick@trigger.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "SenpAI.GG",
+    "Startup URL": "https://senpai.gg/",
+    "Startup Description": "",
+    "Startup Keyword": "Seed funding",
+    "Founders": [
+      {
+        "Name": "Olcay Yilmazcoban",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/olcay-y%C4%B1lmaz%C3%A7oban-51303161/",
+        "Email": "olcay@senpai.gg.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Hyper Online",
+    "Startup URL": "https://www.hyper.online/",
+    "Startup Description": "",
+    "Startup Keyword": "Seed funding",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Inporia",
+    "Startup URL": "http://inporia.com",
+    "Startup Description": "",
+    "Startup Keyword": "Seed funding",
+    "Founders": [
+      {
+        "Name": "Max Sky (CEO, Vault12)",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/maxskibinsky/",
+        "Email": "max@inporia.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Dropback",
+    "Startup URL": "https://www.dropback.com",
+    "Startup Description": "",
+    "Startup Keyword": "Seed funding",
+    "Founders": [
+      {
+        "Name": "Luke",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/lukebogus",
+        "Email": "luke@dropback.com"
+      },
+      {
+        "Name": "Nick",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/nick-siscoe-58a1099b",
+        "Email": "nick@dropback.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Forge",
+    "Startup URL": "https://www.forgehq.com/",
+    "Startup Description": "",
+    "Startup Keyword": "Seed funding",
+    "Founders": [
+      {
+        "Name": "Emir Sahmanovic",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/emir-sahmanovic-976b71b5",
+        "Email": "emir@forge.com"
+      },
+      {
+        "Name": "Haris Sahmanovic",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/haris-sahmanovic-438884126",
+        "Email": "haris@forge.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "goodfin",
+    "Startup URL": "http://www.goodfin.com",
+    "Startup Description": "",
+    "Startup Keyword": "Seed funding",
+    "Founders": [
+      {
+        "Name": "Anna Joo Fee",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/annajfee/",
+        "Email": "anna@goodfin.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Sohar Health",
+    "Startup URL": "https://www.soharhealth.com",
+    "Startup Description": "",
+    "Startup Keyword": "Seed funding",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Hyperseed",
+    "Startup URL": "https://hyperseed.com",
+    "Startup Description": "",
+    "Startup Keyword": "Seed funding",
+    "Founders": [
+      {
+        "Name": "Hootan Mahallati",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/hootanmahallati/",
+        "Email": "hootan@hyperseed.com"
+      },
+      {
+        "Name": "Georg Untersalmberger",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/untersalmberger/",
+        "Email": "georg@hyperseed.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Virool",
+    "Startup URL": "http://virool.com",
+    "Startup Description": "",
+    "Startup Keyword": "Seed funding",
+    "Founders": [
+      {
+        "Name": "Alexander Debelov",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/techentrepreneur1/",
+        "Email": "alexander@virool.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Comfy Deploy",
+    "Startup URL": "https://comfydeploy.com",
+    "Startup Description": "",
+    "Startup Keyword": "Seed funding",
+    "Founders": []
+  },
+  {
+    "Startup Name": "WorldCover",
+    "Startup URL": "https://www.worldcovr.com",
+    "Startup Description": "",
+    "Startup Keyword": "Seed funding",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Candor",
+    "Startup URL": "https://www.usecandor.ai",
+    "Startup Description": "",
+    "Startup Keyword": "Seed funding",
+    "Founders": [
+      {
+        "Name": "Marcus Zimmerman",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/marcus-zimmerman-4878ba245/",
+        "Email": "marcus@candor.com"
+      },
+      {
+        "Name": "Ethne Laude",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/ethne-laude-289801224/",
+        "Email": "ethne@candor.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Algolia",
+    "Startup URL": "http://www.algolia.com",
+    "Startup Description": "",
+    "Startup Keyword": "Seed funding",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Razorpay",
+    "Startup URL": "https://razorpay.com",
+    "Startup Description": "",
+    "Startup Keyword": "Seed funding",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Albiware Inc.",
+    "Startup URL": "https://www.albiware.com",
+    "Startup Description": "",
+    "Startup Keyword": "B2B SaaS",
+    "Founders": [
+      {
+        "Name": "Alex Duta",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/alex-duta-xct-9a883b4b/",
+        "Email": "alex@albiwareinc..com"
+      },
+      {
+        "Name": "Shamoil Soni",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/shamoilsoni/",
+        "Email": "shamoil@albiwareinc..com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Sitenna",
+    "Startup URL": "http://www.sitenna.com",
+    "Startup Description": "",
+    "Startup Keyword": "B2B SaaS",
+    "Founders": [
+      {
+        "Name": "Daniel Campion",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/danielcampion/",
+        "Email": "daniel@sitenna.com"
+      },
+      {
+        "Name": "Brian Sexton",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/briansexton-ire/",
+        "Email": "brian@sitenna.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Dimely",
+    "Startup URL": "https://dimely.com/",
+    "Startup Description": "",
+    "Startup Keyword": "B2B SaaS",
+    "Founders": [
+      {
+        "Name": "David Pang",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/davidnpang",
+        "Email": "david@dimely.com"
+      },
+      {
+        "Name": "Peter Sun",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/p2sun",
+        "Email": "peter@dimely.com"
+      },
+      {
+        "Name": "David",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/davidnpang/",
+        "Email": "david@dimely.com"
+      },
+      {
+        "Name": "Peter,",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/p2sun/",
+        "Email": "peter,@dimely.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "PropelAuth",
+    "Startup URL": "https://www.propelauth.com",
+    "Startup Description": "",
+    "Startup Keyword": "B2B SaaS",
+    "Founders": [
+      {
+        "Name": "Andrew Israel",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/andrew-israel-457751b8/",
+        "Email": "andrew@propelauth.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Sero",
+    "Startup URL": "https://www.sero.so",
+    "Startup Description": "",
+    "Startup Keyword": "B2B SaaS",
+    "Founders": [
+      {
+        "Name": "Jai Thirani",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/jai-thirani-a0381112b/",
+        "Email": "jai@sero.com"
+      },
+      {
+        "Name": "Aditya Padwal",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/aditya-padwal-a9b003169/",
+        "Email": "aditya@sero.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Xkit",
+    "Startup URL": "https://xkit.co",
+    "Startup Description": "",
+    "Startup Keyword": "B2B SaaS",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Tesseral",
+    "Startup URL": "https://tesseral.com",
+    "Startup Description": "",
+    "Startup Keyword": "B2B SaaS",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Natero",
+    "Startup URL": "http://natero.com",
+    "Startup Description": "",
+    "Startup Keyword": "B2B SaaS",
+    "Founders": [
+      {
+        "Name": "Garth Goodson",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/garthgoodson/",
+        "Email": "garth@natero.com"
+      },
+      {
+        "Name": "Craig Soules",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/craigsoules",
+        "Email": "craig@natero.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Cleon",
+    "Startup URL": "https://getcleon.ai",
+    "Startup Description": "",
+    "Startup Keyword": "B2B SaaS",
+    "Founders": [
+      {
+        "Name": "Ricardo Pantaleon",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/ricardo-pantaleon-9b6959135/",
+        "Email": "ricardo@cleon.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "LedgerUp",
+    "Startup URL": "https://ledgerup.ai/",
+    "Startup Description": "",
+    "Startup Keyword": "B2B SaaS",
+    "Founders": [
+      {
+        "Name": "Joseph",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/joseph-johnson-/",
+        "Email": "joseph@ledgerup.com"
+      },
+      {
+        "Name": "Bailey",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/bailey-spell-b487ab149/",
+        "Email": "bailey@ledgerup.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "SafetyKit",
+    "Startup URL": "https://www.safetykit.com/",
+    "Startup Description": "",
+    "Startup Keyword": "B2B SaaS",
+    "Founders": [
+      {
+        "Name": "David Graunke",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/david-graunke-46790429",
+        "Email": "david@safetykit.com"
+      },
+      {
+        "Name": "Steven Guichard",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/stevenguichard",
+        "Email": "steven@safetykit.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Alguna",
+    "Startup URL": "https://alguna.io",
+    "Startup Description": "",
+    "Startup Keyword": "B2B SaaS",
+    "Founders": [
+      {
+        "Name": "Jamie MacLeod",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/jamie-macleod",
+        "Email": "jamie@alguna.com"
+      },
+      {
+        "Name": "@Jamie MacLeod",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/jamie-macleod/",
+        "Email": "@jamie@alguna.com"
+      },
+      {
+        "Name": "@Aleks Đekić",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/aleksdjekic/",
+        "Email": "@aleks@alguna.com"
+      },
+      {
+        "Name": "@Aleks",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/aleksdjekic/",
+        "Email": "@aleks@alguna.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "BiggerPicture",
+    "Startup URL": "http://biggerpicture.co",
+    "Startup Description": "",
+    "Startup Keyword": "B2B SaaS",
+    "Founders": [
+      {
+        "Name": "Guillaume Lo Re",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/guillaume-lo-re-786891108/",
+        "Email": "guillaume@biggerpicture.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Clupp",
+    "Startup URL": "http://clupp.com.mx/",
+    "Startup Description": "",
+    "Startup Keyword": "B2B SaaS",
+    "Founders": [
+      {
+        "Name": "Omar Said López Tronco",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/omartronco/",
+        "Email": "omar@clupp.com"
+      },
+      {
+        "Name": "Marisol Sánchez",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/marisolsn",
+        "Email": "marisol@clupp.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Payflow",
+    "Startup URL": "https://www.payflow.es/",
+    "Startup Description": "",
+    "Startup Keyword": "B2B SaaS",
+    "Founders": []
+  },
+  {
+    "Startup Name": "June",
+    "Startup URL": "http://june.so",
+    "Startup Description": "",
+    "Startup Keyword": "B2B SaaS",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Elemeno Health",
+    "Startup URL": "http://elemenohealth.com",
+    "Startup Description": "",
+    "Startup Keyword": "B2B SaaS",
+    "Founders": [
+      {
+        "Name": "Arup Roy-Burman",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/arup-roy-burman-7891736",
+        "Email": "arup@elemenohealth.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Bento",
+    "Startup URL": "http://trybento.co/",
+    "Startup Description": "",
+    "Startup Keyword": "B2B SaaS",
+    "Founders": [
+      {
+        "Name": "Emily Wang",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/emilyyidanwang/",
+        "Email": "emily@bento.com"
+      },
+      {
+        "Name": "Jason Hoch",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/jason-hoch/",
+        "Email": "jason@bento.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "FuseAI",
+    "Startup URL": "https://tryfuse.ai/",
+    "Startup Description": "",
+    "Startup Keyword": "B2B SaaS",
+    "Founders": [
+      {
+        "Name": "Saurav Bubber",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/sauravbubber",
+        "Email": "saurav@fuseai.com"
+      },
+      {
+        "Name": "Imogen Low",
+        "Role": "Founder",
+        "LinkedIn": "https://linkedin.com/in/imogen-low",
+        "Email": "imogen@fuseai.com"
+      },
+      {
+        "Name": "Saurav Bubber",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/sauravbubber/",
+        "Email": "saurav@fuseai.com"
+      },
+      {
+        "Name": "Imogen Low",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/imogen-low/",
+        "Email": "imogen@fuseai.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "SFOX",
+    "Startup URL": "http://sfox.com",
+    "Startup Description": "",
+    "Startup Keyword": "YC-backed",
+    "Founders": [
+      {
+        "Name": "Akbar Thobhani",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/akbart",
+        "Email": "akbar@sfox.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Riveter AI",
+    "Startup URL": "https://www.riveterhq.com/",
+    "Startup Description": "",
+    "Startup Keyword": "YC-backed",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Seals AI",
+    "Startup URL": "https://www.hireseals.ai/",
+    "Startup Description": "",
+    "Startup Keyword": "YC-backed",
+    "Founders": [
+      {
+        "Name": "Javier Gonzalez",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/javiergzz/",
+        "Email": "javier@sealsai.com"
+      },
+      {
+        "Name": "Fernando Huerta",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/fernando-huerta-zuniga/",
+        "Email": "fernando@sealsai.com"
+      },
+      {
+        "Name": "Luis Mario",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/luismariogarcia/",
+        "Email": "luis@sealsai.com"
+      },
+      {
+        "Name": "Javier",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/javiergzz/",
+        "Email": "javier@sealsai.com"
+      },
+      {
+        "Name": "Heber",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/huriegas/",
+        "Email": "heber@sealsai.com"
+      },
+      {
+        "Name": "Fernando,",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/fernando-huerta-zuniga/",
+        "Email": "fernando,@sealsai.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Tarjimly",
+    "Startup URL": "https://tarjimly.org",
+    "Startup Description": "",
+    "Startup Keyword": "YC-backed",
+    "Founders": [
+      {
+        "Name": "Atif Javed",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/atifmjaved/",
+        "Email": "atif@tarjimly.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Soteris",
+    "Startup URL": "http://www.soteris.co",
+    "Startup Description": "",
+    "Startup Keyword": "YC-backed",
+    "Founders": [
+      {
+        "Name": "Sunit Shah",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/sunit-n-shah/",
+        "Email": "sunit@soteris.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Bunkerhill Health",
+    "Startup URL": "http://bunkerhillhealth.com",
+    "Startup Description": "",
+    "Startup Keyword": "YC-backed",
+    "Founders": [
+      {
+        "Name": "David Eng",
+        "Role": "Founder",
+        "LinkedIn": "http://linkedin.com/in/gnedivad",
+        "Email": "david@bunkerhillhealth.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "PocketSuite",
+    "Startup URL": "https://pocketsuite.io",
+    "Startup Description": "",
+    "Startup Keyword": "YC-backed",
+    "Founders": [
+      {
+        "Name": "Yang Forjindam",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/yangforjindam",
+        "Email": "yang@pocketsuite.com"
+      }
+    ]
+  },
+  {
+    "Startup Name": "Bluecrew",
+    "Startup URL": "http://bluecrewjobs.com",
+    "Startup Description": "",
+    "Startup Keyword": "YC-backed",
+    "Founders": []
+  },
+  {
+    "Startup Name": "Meldium",
+    "Startup URL": "http://meldium.com",
+    "Startup Description": "",
+    "Startup Keyword": "YC-backed",
+    "Founders": [
+      {
+        "Name": "Anton Vaynshtok",
+        "Role": "Founder",
+        "LinkedIn": "https://www.linkedin.com/in/avaynshtok/",
+        "Email": "anton@meldium.com"
+      }
+    ]
+  }
+]
